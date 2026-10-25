@@ -17,10 +17,10 @@
   "proyecto": "StatsRun",
   "repo": "davidodo123/StatsRun",
   "progreso": 85,
-  "metodo_progreso": "108 de 128 tareas del Roadmap (Obsidian)",
-  "commits": 131,
+  "metodo_progreso": "109 de 128 tareas del Roadmap (Obsidian)",
+  "commits": 132,
   "sesiones": 24,
-  "horas": 37.3,
+  "horas": 39.3,
   "primer_commit": "2026-10-08",
   "ultimo_commit": "2026-10-25",
   "calculado": "2026-10-25",
@@ -29,12 +29,12 @@
   "app_nuevos_semana": 0,
   "app_entrenos_semana": 15,
   "app_ia_mensajes_hoy": 0,
-  "app_ia_reajustes_hoy": 0,
+  "app_ia_reajustes_hoy": 1,
   "app_fallos_ia": 1,
   "app_datos_kb": 62,
   "app_copia_ok": null,
   "app_copia_fecha": null,
-  "app_leido": "2026-10-25T11:38:53.855Z"
+  "app_leido": "2026-10-25T21:30:09.646Z"
  },
  {
   "id": "lifer",

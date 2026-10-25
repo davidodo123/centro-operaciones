@@ -341,12 +341,22 @@
  },
  {
   "fecha": "2026-10-25",
+  "proyecto": "david",
+  "entrada": 12,
+  "salida": 1222,
+  "cache_escritura": 40617,
+  "cache_lectura": 264907,
+  "respuestas": 6,
+  "total": 306758
+ },
+ {
+  "fecha": "2026-10-25",
   "proyecto": "StatsRun",
-  "entrada": 344,
-  "salida": 123118,
-  "cache_escritura": 653901,
-  "cache_lectura": 86654734,
-  "respuestas": 172,
-  "total": 87432097
+  "entrada": 382,
+  "salida": 131604,
+  "cache_escritura": 681907,
+  "cache_lectura": 99333621,
+  "respuestas": 191,
+  "total": 100147514
  }
 ]
