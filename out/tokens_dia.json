@@ -1,0 +1,352 @@
+[
+ {
+  "fecha": "2026-10-04",
+  "proyecto": "StudyUp",
+  "entrada": 190,
+  "salida": 131244,
+  "cache_escritura": 205952,
+  "cache_lectura": 12986609,
+  "respuestas": 95,
+  "total": 13323995
+ },
+ {
+  "fecha": "2026-10-08",
+  "proyecto": "01-app",
+  "entrada": 8,
+  "salida": 8243,
+  "cache_escritura": 10978,
+  "cache_lectura": 235900,
+  "respuestas": 4,
+  "total": 255129
+ },
+ {
+  "fecha": "2026-10-08",
+  "proyecto": "engine",
+  "entrada": 6,
+  "salida": 22085,
+  "cache_escritura": 22822,
+  "cache_lectura": 299291,
+  "respuestas": 3,
+  "total": 344204
+ },
+ {
+  "fecha": "2026-10-08",
+  "proyecto": "fit-file-parser",
+  "entrada": 8,
+  "salida": 14376,
+  "cache_escritura": 14835,
+  "cache_lectura": 953618,
+  "respuestas": 4,
+  "total": 982837
+ },
+ {
+  "fecha": "2026-10-08",
+  "proyecto": "STATS",
+  "entrada": 46,
+  "salida": 28232,
+  "cache_escritura": 42723,
+  "cache_lectura": 4495005,
+  "respuestas": 23,
+  "total": 4566006
+ },
+ {
+  "fecha": "2026-10-08",
+  "proyecto": "web",
+  "entrada": 162,
+  "salida": 125716,
+  "cache_escritura": 200722,
+  "cache_lectura": 16260228,
+  "respuestas": 81,
+  "total": 16586828
+ },
+ {
+  "fecha": "2026-10-09",
+  "proyecto": "Desktop",
+  "entrada": 2,
+  "salida": 312,
+  "cache_escritura": 598,
+  "cache_lectura": 140724,
+  "respuestas": 1,
+  "total": 141636
+ },
+ {
+  "fecha": "2026-10-09",
+  "proyecto": "sr-base",
+  "entrada": 2,
+  "salida": 962,
+  "cache_escritura": 1654,
+  "cache_lectura": 141322,
+  "respuestas": 1,
+  "total": 143940
+ },
+ {
+  "fecha": "2026-10-09",
+  "proyecto": "StatsRun",
+  "entrada": 1072,
+  "salida": 458283,
+  "cache_escritura": 2485547,
+  "cache_lectura": 154615229,
+  "respuestas": 537,
+  "total": 157560131
+ },
+ {
+  "fecha": "2026-10-10",
+  "proyecto": "StatsRun",
+  "entrada": 1384,
+  "salida": 734886,
+  "cache_escritura": 1947644,
+  "cache_lectura": 299939476,
+  "respuestas": 692,
+  "total": 302623390
+ },
+ {
+  "fecha": "2026-10-11",
+  "proyecto": "StatsRun",
+  "entrada": 904,
+  "salida": 350427,
+  "cache_escritura": 2213200,
+  "cache_lectura": 234773618,
+  "respuestas": 454,
+  "total": 237338149
+ },
+ {
+  "fecha": "2026-10-12",
+  "proyecto": "progen",
+  "entrada": 20,
+  "salida": 15683,
+  "cache_escritura": 39099,
+  "cache_lectura": 488564,
+  "respuestas": 10,
+  "total": 543366
+ },
+ {
+  "fecha": "2026-10-12",
+  "proyecto": "StatsRun",
+  "entrada": 392,
+  "salida": 133918,
+  "cache_escritura": 1788124,
+  "cache_lectura": 98237330,
+  "respuestas": 197,
+  "total": 100159764
+ },
+ {
+  "fecha": "2026-10-13",
+  "proyecto": "StatsRun",
+  "entrada": 16,
+  "salida": 3505,
+  "cache_escritura": 616026,
+  "cache_lectura": 4512840,
+  "respuestas": 11,
+  "total": 5132387
+ },
+ {
+  "fecha": "2026-10-16",
+  "proyecto": "Eat-em",
+  "entrada": 684,
+  "salida": 333765,
+  "cache_escritura": 586149,
+  "cache_lectura": 107814785,
+  "respuestas": 342,
+  "total": 108735383
+ },
+ {
+  "fecha": "2026-10-17",
+  "proyecto": "david",
+  "entrada": 16,
+  "salida": 2790,
+  "cache_escritura": 36021,
+  "cache_lectura": 227531,
+  "respuestas": 8,
+  "total": 266358
+ },
+ {
+  "fecha": "2026-10-17",
+  "proyecto": "Eat-em",
+  "entrada": 544,
+  "salida": 294572,
+  "cache_escritura": 1379833,
+  "cache_lectura": 148201029,
+  "respuestas": 275,
+  "total": 149875978
+ },
+ {
+  "fecha": "2026-10-18",
+  "proyecto": "Desktop",
+  "entrada": 10,
+  "salida": 1554,
+  "cache_escritura": 2945,
+  "cache_lectura": 402133,
+  "respuestas": 5,
+  "total": 406642
+ },
+ {
+  "fecha": "2026-10-18",
+  "proyecto": "PRUEBAS",
+  "entrada": 8,
+  "salida": 1587,
+  "cache_escritura": 3698,
+  "cache_lectura": 337292,
+  "respuestas": 4,
+  "total": 342585
+ },
+ {
+  "fecha": "2026-10-18",
+  "proyecto": "StatsRun",
+  "entrada": 412,
+  "salida": 165323,
+  "cache_escritura": 393125,
+  "cache_lectura": 39844912,
+  "respuestas": 206,
+  "total": 40403772
+ },
+ {
+  "fecha": "2026-10-18",
+  "proyecto": "StudyUp",
+  "entrada": 102,
+  "salida": 35169,
+  "cache_escritura": 183472,
+  "cache_lectura": 6954274,
+  "respuestas": 51,
+  "total": 7173017
+ },
+ {
+  "fecha": "2026-10-19",
+  "proyecto": "Eat-em",
+  "entrada": 286,
+  "salida": 137984,
+  "cache_escritura": 468856,
+  "cache_lectura": 55475448,
+  "respuestas": 144,
+  "total": 56082574
+ },
+ {
+  "fecha": "2026-10-19",
+  "proyecto": "StatsRun",
+  "entrada": 74,
+  "salida": 36558,
+  "cache_escritura": 807899,
+  "cache_lectura": 14169136,
+  "respuestas": 37,
+  "total": 15013667
+ },
+ {
+  "fecha": "2026-10-20",
+  "proyecto": "Desktop",
+  "entrada": 4,
+  "salida": 1161,
+  "cache_escritura": 8497,
+  "cache_lectura": 149161,
+  "respuestas": 2,
+  "total": 158823
+ },
+ {
+  "fecha": "2026-10-20",
+  "proyecto": "diario",
+  "entrada": 36,
+  "salida": 16138,
+  "cache_escritura": 22316,
+  "cache_lectura": 3178301,
+  "respuestas": 18,
+  "total": 3216791
+ },
+ {
+  "fecha": "2026-10-20",
+  "proyecto": "Eat-em",
+  "entrada": 60,
+  "salida": 29287,
+  "cache_escritura": 49616,
+  "cache_lectura": 15809020,
+  "respuestas": 30,
+  "total": 15887983
+ },
+ {
+  "fecha": "2026-10-20",
+  "proyecto": "Portfolio-main",
+  "entrada": 370,
+  "salida": 129196,
+  "cache_escritura": 341948,
+  "cache_lectura": 44230671,
+  "respuestas": 185,
+  "total": 44702185
+ },
+ {
+  "fecha": "2026-10-20",
+  "proyecto": "StatsRun",
+  "entrada": 424,
+  "salida": 142726,
+  "cache_escritura": 1420562,
+  "cache_lectura": 128559255,
+  "respuestas": 212,
+  "total": 130122967
+ },
+ {
+  "fecha": "2026-10-20",
+  "proyecto": "TOP",
+  "entrada": 4,
+  "salida": 1309,
+  "cache_escritura": 606,
+  "cache_lectura": 468749,
+  "respuestas": 2,
+  "total": 470668
+ },
+ {
+  "fecha": "2026-10-21",
+  "proyecto": "StatsRun",
+  "entrada": 112,
+  "salida": 40767,
+  "cache_escritura": 1628383,
+  "cache_lectura": 43650695,
+  "respuestas": 56,
+  "total": 45319957
+ },
+ {
+  "fecha": "2026-10-22",
+  "proyecto": "StatsRun",
+  "entrada": 4,
+  "salida": 1706,
+  "cache_escritura": 827318,
+  "cache_lectura": 880593,
+  "respuestas": 2,
+  "total": 1709621
+ },
+ {
+  "fecha": "2026-10-23",
+  "proyecto": "StatsRun",
+  "entrada": 798,
+  "salida": 323051,
+  "cache_escritura": 1967128,
+  "cache_lectura": 157418434,
+  "respuestas": 399,
+  "total": 159709411
+ },
+ {
+  "fecha": "2026-10-24",
+  "proyecto": "StatsRun",
+  "entrada": 490,
+  "salida": 189416,
+  "cache_escritura": 1491617,
+  "cache_lectura": 90742681,
+  "respuestas": 245,
+  "total": 92424204
+ },
+ {
+  "fecha": "2026-10-25",
+  "proyecto": "centro-operaciones",
+  "entrada": 4,
+  "salida": 267,
+  "cache_escritura": 20307,
+  "cache_lectura": 72851,
+  "respuestas": 2,
+  "total": 93429
+ },
+ {
+  "fecha": "2026-10-25",
+  "proyecto": "StatsRun",
+  "entrada": 322,
+  "salida": 114745,
+  "cache_escritura": 639100,
+  "cache_lectura": 79525697,
+  "respuestas": 161,
+  "total": 80279864
+ }
+]

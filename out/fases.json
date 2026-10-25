@@ -1,0 +1,177 @@
+[
+ {
+  "proyecto": "Eat-em",
+  "fase": "Fase 1 · Datos de supermercados",
+  "hechas": 5,
+  "total": 6,
+  "pct": 83
+ },
+ {
+  "proyecto": "Eat-em",
+  "fase": "Fase 2 · App móvil",
+  "hechas": 20.5,
+  "total": 22,
+  "pct": 93
+ },
+ {
+  "proyecto": "Eat-em",
+  "fase": "Fase 3 · Publicar",
+  "hechas": 2,
+  "total": 3,
+  "pct": 67
+ },
+ {
+  "proyecto": "StatsRun",
+  "fase": "Fase 1 · Necesario",
+  "hechas": 8,
+  "total": 8,
+  "pct": 100
+ },
+ {
+  "proyecto": "StatsRun",
+  "fase": "Fase 2 · Importante",
+  "hechas": 4,
+  "total": 4,
+  "pct": 100
+ },
+ {
+  "proyecto": "StatsRun",
+  "fase": "Fase 3 · Futuro",
+  "hechas": 21,
+  "total": 21,
+  "pct": 100
+ },
+ {
+  "proyecto": "StatsRun",
+  "fase": "Fase 4 · Fuerza tipo Hevy",
+  "hechas": 17,
+  "total": 17,
+  "pct": 100
+ },
+ {
+  "proyecto": "StatsRun",
+  "fase": "Repaso de rendimiento y sin emojis",
+  "hechas": 4,
+  "total": 4,
+  "pct": 100
+ },
+ {
+  "proyecto": "StatsRun",
+  "fase": "Fallos que vio David (2026-10-11)",
+  "hechas": 10,
+  "total": 10,
+  "pct": 100
+ },
+ {
+  "proyecto": "StatsRun",
+  "fase": "Copias de seguridad (2026-10-12)",
+  "hechas": 4,
+  "total": 4,
+  "pct": 100
+ },
+ {
+  "proyecto": "StatsRun",
+  "fase": "Fase 6 · Compartir la app (2026-10-12)",
+  "hechas": 6,
+  "total": 7,
+  "pct": 86
+ },
+ {
+  "proyecto": "StatsRun",
+  "fase": "Fase 7 · Ideas nuevas (2026-10-18)",
+  "hechas": 0.5,
+  "total": 2,
+  "pct": 25
+ },
+ {
+  "proyecto": "StatsRun",
+  "fase": "Fase 8 · Por hacer (apuntado por David 2026-10-20)",
+  "hechas": 18.5,
+  "total": 22,
+  "pct": 84
+ },
+ {
+  "proyecto": "StatsRun",
+  "fase": "Infraestructura (escalar la app)",
+  "hechas": 2.5,
+  "total": 8,
+  "pct": 31
+ },
+ {
+  "proyecto": "StatsRun",
+  "fase": "Suscripción",
+  "hechas": 0,
+  "total": 6,
+  "pct": 0
+ },
+ {
+  "proyecto": "StatsRun",
+  "fase": "IA que aprende de ti (opción 2: sin entrenar el modelo)",
+  "hechas": 3,
+  "total": 3,
+  "pct": 100
+ },
+ {
+  "proyecto": "StatsRun",
+  "fase": "Batería de pruebas",
+  "hechas": 4,
+  "total": 5,
+  "pct": 80
+ },
+ {
+  "proyecto": "StatsRun",
+  "fase": "Pendientes técnicos",
+  "hechas": 6,
+  "total": 6,
+  "pct": 100
+ },
+ {
+  "proyecto": "StatsRun",
+  "fase": "Para el final (lo dejó David 2026-10-25)",
+  "hechas": 0,
+  "total": 1,
+  "pct": 0
+ },
+ {
+  "proyecto": "Lifer",
+  "fase": "Fase 1 · Base",
+  "hechas": 5,
+  "total": 5,
+  "pct": 100
+ },
+ {
+  "proyecto": "Lifer",
+  "fase": "Fase 2 · Fotos",
+  "hechas": 2,
+  "total": 5,
+  "pct": 40
+ },
+ {
+  "proyecto": "Lifer",
+  "fase": "Fase 3 · Centro de Operaciones",
+  "hechas": 1,
+  "total": 2,
+  "pct": 50
+ },
+ {
+  "proyecto": "Lifer",
+  "fase": "Fase 4 · Importaciones",
+  "hechas": 1.5,
+  "total": 4,
+  "pct": 38
+ },
+ {
+  "proyecto": "Lifer",
+  "fase": "Fase 5 · Extras",
+  "hechas": 0,
+  "total": 3,
+  "pct": 0
+ },
+ {
+  "proyecto": "Portfolio",
+  "fase": "Fase 1 · Necesario",
+  "hechas": 14,
+  "total": 16,
+  "pct": 88
+ }
+]
