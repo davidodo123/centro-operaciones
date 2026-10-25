@@ -332,21 +332,21 @@
  {
   "fecha": "2026-10-25",
   "proyecto": "centro-operaciones",
-  "entrada": 4,
-  "salida": 267,
-  "cache_escritura": 20307,
-  "cache_lectura": 72851,
-  "respuestas": 2,
-  "total": 93429
+  "entrada": 22,
+  "salida": 3849,
+  "cache_escritura": 39310,
+  "cache_lectura": 583305,
+  "respuestas": 11,
+  "total": 626486
  },
  {
   "fecha": "2026-10-25",
   "proyecto": "StatsRun",
-  "entrada": 322,
-  "salida": 114745,
-  "cache_escritura": 639100,
-  "cache_lectura": 79525697,
-  "respuestas": 161,
-  "total": 80279864
+  "entrada": 344,
+  "salida": 123118,
+  "cache_escritura": 653901,
+  "cache_lectura": 86654734,
+  "respuestas": 172,
+  "total": 87432097
  }
 ]
