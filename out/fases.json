@@ -2,23 +2,23 @@
  {
   "proyecto": "Eat-em",
   "fase": "Fase 1 · Datos de supermercados",
-  "hechas": 5,
-  "total": 6,
-  "pct": 83
+  "hechas": 8.5,
+  "total": 9,
+  "pct": 94
  },
  {
   "proyecto": "Eat-em",
   "fase": "Fase 2 · App móvil",
-  "hechas": 20.5,
-  "total": 22,
-  "pct": 93
+  "hechas": 23.5,
+  "total": 24,
+  "pct": 98
  },
  {
   "proyecto": "Eat-em",
   "fase": "Fase 3 · Publicar",
-  "hechas": 2,
-  "total": 3,
-  "pct": 67
+  "hechas": 3.5,
+  "total": 4,
+  "pct": 88
  },
  {
   "proyecto": "StatsRun",
@@ -86,9 +86,9 @@
  {
   "proyecto": "StatsRun",
   "fase": "Fase 8 · Por hacer (apuntado por David 2026-10-20)",
-  "hechas": 18.5,
+  "hechas": 18,
   "total": 22,
-  "pct": 84
+  "pct": 82
  },
  {
   "proyecto": "StatsRun",
@@ -124,6 +124,20 @@
   "hechas": 6,
   "total": 6,
   "pct": 100
+ },
+ {
+  "proyecto": "StatsRun",
+  "fase": "Idiomas (lo pidió David 2026-10-26)",
+  "hechas": 1.5,
+  "total": 3,
+  "pct": 50
+ },
+ {
+  "proyecto": "StatsRun",
+  "fase": "Pedido por David (2026-10-26)",
+  "hechas": 12,
+  "total": 13,
+  "pct": 92
  },
  {
   "proyecto": "StatsRun",
@@ -170,8 +184,8 @@
  {
   "proyecto": "Portfolio",
   "fase": "Fase 1 · Necesario",
-  "hechas": 14,
-  "total": 16,
+  "hechas": 15,
+  "total": 17,
   "pct": 88
  }
 ]

@@ -25,6 +25,11 @@
   "horas": 1.99
  },
  {
+  "proyecto": "Eat-em",
+  "fecha": "2026-10-27",
+  "horas": 2.43
+ },
+ {
   "proyecto": "StatsRun",
   "fecha": "2026-10-08",
   "horas": 0.5
@@ -92,7 +97,17 @@
  {
   "proyecto": "StatsRun",
   "fecha": "2026-10-25",
-  "horas": 2.68
+  "horas": 3.22
+ },
+ {
+  "proyecto": "StatsRun",
+  "fecha": "2026-10-26",
+  "horas": 5.41
+ },
+ {
+  "proyecto": "StatsRun",
+  "fecha": "2026-10-27",
+  "horas": 3.06
  },
  {
   "proyecto": "Lifer",
@@ -108,5 +123,10 @@
   "proyecto": "Portfolio",
   "fecha": "2026-10-20",
   "horas": 1.96
+ },
+ {
+  "proyecto": "Portfolio",
+  "fecha": "2026-10-26",
+  "horas": 0.5
  }
 ]

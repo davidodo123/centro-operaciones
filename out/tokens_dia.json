@@ -352,11 +352,71 @@
  {
   "fecha": "2026-10-25",
   "proyecto": "StatsRun",
+  "entrada": 466,
+  "salida": 174026,
+  "cache_escritura": 1411008,
+  "cache_lectura": 128469097,
+  "respuestas": 233,
+  "total": 130054597
+ },
+ {
+  "fecha": "2026-10-26",
+  "proyecto": "diario",
+  "entrada": 16,
+  "salida": 4171,
+  "cache_escritura": 11029,
+  "cache_lectura": 643012,
+  "respuestas": 8,
+  "total": 658228
+ },
+ {
+  "fecha": "2026-10-26",
+  "proyecto": "linkedin-datos-curiosos",
+  "entrada": 36,
+  "salida": 11151,
+  "cache_escritura": 47927,
+  "cache_lectura": 1159312,
+  "respuestas": 18,
+  "total": 1218426
+ },
+ {
+  "fecha": "2026-10-26",
+  "proyecto": "Portfolio-main",
+  "entrada": 24,
+  "salida": 4459,
+  "cache_escritura": 49862,
+  "cache_lectura": 2643085,
+  "respuestas": 12,
+  "total": 2697430
+ },
+ {
+  "fecha": "2026-10-26",
+  "proyecto": "StatsRun",
+  "entrada": 566,
+  "salida": 304432,
+  "cache_escritura": 1427187,
+  "cache_lectura": 88848162,
+  "respuestas": 283,
+  "total": 90580347
+ },
+ {
+  "fecha": "2026-10-27",
+  "proyecto": "Eat-em",
+  "entrada": 224,
+  "salida": 55776,
+  "cache_escritura": 265428,
+  "cache_lectura": 13142255,
+  "respuestas": 112,
+  "total": 13463683
+ },
+ {
+  "fecha": "2026-10-27",
+  "proyecto": "StatsRun",
   "entrada": 382,
-  "salida": 131604,
-  "cache_escritura": 681907,
-  "cache_lectura": 99333621,
-  "respuestas": 191,
-  "total": 100147514
+  "salida": 198163,
+  "cache_escritura": 972296,
+  "cache_lectura": 87243448,
+  "respuestas": 185,
+  "total": 88414289
  }
 ]
