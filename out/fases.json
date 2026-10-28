@@ -135,9 +135,9 @@
  {
   "proyecto": "StatsRun",
   "fase": "Pedido por David (2026-10-26)",
-  "hechas": 12,
-  "total": 13,
-  "pct": 92
+  "hechas": 13,
+  "total": 14,
+  "pct": 93
  },
  {
   "proyecto": "StatsRun",
@@ -182,7 +182,7 @@
   "pct": 0
  },
  {
-  "proyecto": "Portfolio",
+  "proyecto": "Mi web personal",
   "fase": "Fase 1 · Necesario",
   "hechas": 15,
   "total": 17,

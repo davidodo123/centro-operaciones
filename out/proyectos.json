@@ -8,7 +8,7 @@
   "stack": "Next.js · Supabase · Tailwind · Vercel",
   "descripcion": "App de móvil (PWA) para la compra de casa: Lista de lo que falta, Despensa con todo lo que hay y Dieta con las comidas de la semana o del mes. Pones tu ubicación y te da los productos y precios de los supermercados que tienes cerca.",
   "siguiente": "Comprobar una semana de ejecuciones diarias sin fallos (Carrefour, Ahorramás, Gadis y Mercadona bien del 21 al 26-10; desde el 28-10 sin Caprabo)",
-  "actualizado": "2026-10-27"
+  "actualizado": "2026-10-28"
  },
  {
   "id": "statsrun",
@@ -19,7 +19,7 @@
   "stack": "Next.js · Capacitor · Tailwind · Vercel",
   "descripcion": "App de entrenamiento para corredores: planes hacia una carrera, registro de entrenos, forma/fatiga, amigos y un entrenador IA que adapta la rutina.",
   "siguiente": "6.7 Prueba cerrada en Play (12 personas, 14 días, obligatorio en cuentas nuevas) y publicación",
-  "actualizado": "2026-10-27"
+  "actualizado": "2026-10-28"
  },
  {
   "id": "lifer",
@@ -30,17 +30,17 @@
   "stack": "Tailwind · Laravel",
   "descripcion": "Registro personal de todo lo que hago: películas y cine, series, entrenamientos, juegos y horas jugadas, quedadas y rutas con amigos, fotos indexadas desde disco/NAS y mis proyectos leídos del Centro de Operaciones.",
   "siguiente": "Indexar la carpeta real de fotos / NAS",
-  "actualizado": "2026-10-27"
+  "actualizado": "2026-10-28"
  },
  {
   "id": "portfolio",
-  "nombre": "Portfolio",
+  "nombre": "Mi web personal",
   "area": "Trabajo",
   "estado": "Activo",
   "agente": "@dev",
   "stack": "Vercel",
   "descripcion": "Web personal de David Santiago Bermúdez: sobre mí, trayectoria, proyectos y contacto. Sirve para captar clientes que necesitan una web.",
   "siguiente": "Cambiar las capturas de Eat-em y Run-In-Out por pantallas de dentro de la app (eat-em.jpg, run-in-out.jpg)",
-  "actualizado": "2026-10-27"
+  "actualizado": "2026-10-28"
  }
 ]

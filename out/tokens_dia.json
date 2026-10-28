@@ -418,5 +418,15 @@
   "cache_lectura": 87243448,
   "respuestas": 185,
   "total": 88414289
+ },
+ {
+  "fecha": "2026-10-28",
+  "proyecto": "StatsRun",
+  "entrada": 222,
+  "salida": 164099,
+  "cache_escritura": 1603649,
+  "cache_lectura": 83033394,
+  "respuestas": 105,
+  "total": 84801364
  }
 ]
