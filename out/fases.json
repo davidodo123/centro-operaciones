@@ -73,8 +73,15 @@
   "proyecto": "StatsRun",
   "fase": "Fase 6 · Compartir la app (2026-10-12)",
   "hechas": 6,
-  "total": 7,
-  "pct": 86
+  "total": 6,
+  "pct": 100
+ },
+ {
+  "proyecto": "StatsRun",
+  "fase": "Fase 9 · Publicar en Google Play (lo base)",
+  "hechas": 6,
+  "total": 11,
+  "pct": 55
  },
  {
   "proyecto": "StatsRun",
@@ -87,8 +94,8 @@
   "proyecto": "StatsRun",
   "fase": "Fase 8 · Por hacer (apuntado por David 2026-10-20)",
   "hechas": 18,
-  "total": 22,
-  "pct": 82
+  "total": 21,
+  "pct": 86
  },
  {
   "proyecto": "StatsRun",
@@ -100,9 +107,9 @@
  {
   "proyecto": "StatsRun",
   "fase": "Suscripción",
-  "hechas": 0,
+  "hechas": 1,
   "total": 6,
-  "pct": 0
+  "pct": 17
  },
  {
   "proyecto": "StatsRun",
@@ -129,21 +136,21 @@
   "proyecto": "StatsRun",
   "fase": "Idiomas (lo pidió David 2026-10-26)",
   "hechas": 1.5,
-  "total": 3,
-  "pct": 50
+  "total": 4,
+  "pct": 38
  },
  {
   "proyecto": "StatsRun",
   "fase": "Pedido por David (2026-10-26)",
-  "hechas": 15,
-  "total": 16,
+  "hechas": 17,
+  "total": 18,
   "pct": 94
  },
  {
   "proyecto": "StatsRun",
   "fase": "Para el final (lo dejó David 2026-10-25)",
   "hechas": 0,
-  "total": 1,
+  "total": 2,
   "pct": 0
  },
  {
