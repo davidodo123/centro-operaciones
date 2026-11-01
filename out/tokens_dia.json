@@ -452,11 +452,21 @@
  {
   "fecha": "2026-10-31",
   "proyecto": "StatsRun",
-  "entrada": 16,
-  "salida": 5797,
-  "cache_escritura": 350289,
-  "cache_lectura": 2647123,
-  "respuestas": 8,
-  "total": 3003225
+  "entrada": 570,
+  "salida": 250457,
+  "cache_escritura": 797720,
+  "cache_lectura": 175686198,
+  "respuestas": 285,
+  "total": 176734945
+ },
+ {
+  "fecha": "2026-11-01",
+  "proyecto": "StatsRun",
+  "entrada": 222,
+  "salida": 67432,
+  "cache_escritura": 980865,
+  "cache_lectura": 22753278,
+  "respuestas": 110,
+  "total": 23801797
  }
 ]

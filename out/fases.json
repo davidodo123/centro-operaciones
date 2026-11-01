@@ -85,6 +85,13 @@
  },
  {
   "proyecto": "StatsRun",
+  "fase": "Pruebas con 1.000 usuarios (lo pidió David 2026-10-31)",
+  "hechas": 15,
+  "total": 17,
+  "pct": 88
+ },
+ {
+  "proyecto": "StatsRun",
   "fase": "Fase 7 · Ideas nuevas (2026-10-18)",
   "hechas": 0.5,
   "total": 2,
@@ -93,9 +100,9 @@
  {
   "proyecto": "StatsRun",
   "fase": "Fase 8 · Por hacer (apuntado por David 2026-10-20)",
-  "hechas": 18,
-  "total": 21,
-  "pct": 86
+  "hechas": 20.5,
+  "total": 23,
+  "pct": 89
  },
  {
   "proyecto": "StatsRun",
@@ -121,9 +128,9 @@
  {
   "proyecto": "StatsRun",
   "fase": "Batería de pruebas",
-  "hechas": 4,
+  "hechas": 4.5,
   "total": 5,
-  "pct": 80
+  "pct": 90
  },
  {
   "proyecto": "StatsRun",
@@ -135,16 +142,16 @@
  {
   "proyecto": "StatsRun",
   "fase": "Idiomas (lo pidió David 2026-10-26)",
-  "hechas": 1.5,
+  "hechas": 2.5,
   "total": 4,
-  "pct": 38
+  "pct": 63
  },
  {
   "proyecto": "StatsRun",
   "fase": "Pedido por David (2026-10-26)",
-  "hechas": 17,
-  "total": 18,
-  "pct": 94
+  "hechas": 19,
+  "total": 21,
+  "pct": 90
  },
  {
   "proyecto": "StatsRun",
