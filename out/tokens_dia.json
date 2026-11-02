@@ -461,6 +461,26 @@
  },
  {
   "fecha": "2026-11-01",
+  "proyecto": "buzon-main",
+  "entrada": 22,
+  "salida": 11112,
+  "cache_escritura": 63363,
+  "cache_lectura": 813052,
+  "respuestas": 11,
+  "total": 887549
+ },
+ {
+  "fecha": "2026-11-01",
+  "proyecto": "diario",
+  "entrada": 4,
+  "salida": 3366,
+  "cache_escritura": 4291,
+  "cache_lectura": 181933,
+  "respuestas": 2,
+  "total": 189594
+ },
+ {
+  "fecha": "2026-11-01",
   "proyecto": "StatsRun",
   "entrada": 222,
   "salida": 67432,

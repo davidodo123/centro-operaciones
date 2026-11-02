@@ -10,7 +10,7 @@
   "horas": 16.8,
   "primer_commit": "2026-10-13",
   "ultimo_commit": "2026-10-27",
-  "calculado": "2026-11-01"
+  "calculado": "2026-11-02"
  },
  {
   "id": "statsrun",
@@ -23,18 +23,18 @@
   "horas": 58.3,
   "primer_commit": "2026-10-08",
   "ultimo_commit": "2026-11-01",
-  "calculado": "2026-11-01",
+  "calculado": "2026-11-02",
   "app_usuarios": 7,
   "app_activos7": 1,
-  "app_nuevos_semana": 3,
-  "app_entrenos_semana": 8,
-  "app_ia_mensajes_hoy": 2,
+  "app_nuevos_semana": 0,
+  "app_entrenos_semana": 2,
+  "app_ia_mensajes_hoy": 0,
   "app_ia_reajustes_hoy": 4,
   "app_fallos_ia": 0,
-  "app_datos_kb": 65,
+  "app_datos_kb": 72,
   "app_copia_ok": true,
-  "app_copia_fecha": "2026-11-01",
-  "app_leido": "2026-11-01T21:30:05.571Z"
+  "app_copia_fecha": "2026-11-02",
+  "app_leido": "2026-11-02T21:30:08.313Z"
  },
  {
   "id": "lifer",
@@ -47,7 +47,7 @@
   "horas": 0.6,
   "primer_commit": "2026-10-18",
   "ultimo_commit": "2026-10-18",
-  "calculado": "2026-11-01"
+  "calculado": "2026-11-02"
  },
  {
   "id": "portfolio",
@@ -60,6 +60,6 @@
   "horas": 4.4,
   "primer_commit": "2026-06-03",
   "ultimo_commit": "2026-10-26",
-  "calculado": "2026-11-01"
+  "calculado": "2026-11-02"
  }
 ]
