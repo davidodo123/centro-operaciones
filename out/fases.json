@@ -86,9 +86,9 @@
  {
   "proyecto": "StatsRun",
   "fase": "Pruebas con 1.000 usuarios (lo pidió David 2026-10-31)",
-  "hechas": 15,
-  "total": 17,
-  "pct": 88
+  "hechas": 22,
+  "total": 22,
+  "pct": 100
  },
  {
   "proyecto": "StatsRun",
@@ -128,9 +128,9 @@
  {
   "proyecto": "StatsRun",
   "fase": "Batería de pruebas",
-  "hechas": 4.5,
-  "total": 5,
-  "pct": 90
+  "hechas": 5,
+  "total": 6,
+  "pct": 83
  },
  {
   "proyecto": "StatsRun",
@@ -149,9 +149,16 @@
  {
   "proyecto": "StatsRun",
   "fase": "Pedido por David (2026-10-26)",
-  "hechas": 19,
-  "total": 21,
-  "pct": 90
+  "hechas": 20,
+  "total": 24,
+  "pct": 83
+ },
+ {
+  "proyecto": "StatsRun",
+  "fase": "Fase 10 · Ideas de Strava (lo pidió David 2026-11-03)",
+  "hechas": 6,
+  "total": 12,
+  "pct": 50
  },
  {
   "proyecto": "StatsRun",
@@ -198,8 +205,29 @@
  {
   "proyecto": "Mi web personal",
   "fase": "Fase 1 · Necesario",
-  "hechas": 15,
+  "hechas": 16,
   "total": 17,
-  "pct": 88
+  "pct": 94
+ },
+ {
+  "proyecto": "Mi web personal",
+  "fase": "Fase 2 · Reposicionar hacia IA y datos",
+  "hechas": 16,
+  "total": 18,
+  "pct": 89
+ },
+ {
+  "proyecto": "Precios-ML",
+  "fase": "Fase 1 · Necesario",
+  "hechas": 7,
+  "total": 7,
+  "pct": 100
+ },
+ {
+  "proyecto": "Precios-ML",
+  "fase": "Fase 2 · Importante",
+  "hechas": 0,
+  "total": 3,
+  "pct": 0
  }
 ]

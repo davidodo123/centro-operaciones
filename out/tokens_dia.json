@@ -488,5 +488,65 @@
   "cache_lectura": 22753278,
   "respuestas": 110,
   "total": 23801797
+ },
+ {
+  "fecha": "2026-11-03",
+  "proyecto": "DAVID",
+  "entrada": 8,
+  "salida": 17492,
+  "cache_escritura": 19837,
+  "cache_lectura": 643841,
+  "respuestas": 4,
+  "total": 681178
+ },
+ {
+  "fecha": "2026-11-03",
+  "proyecto": "Desktop",
+  "entrada": 4,
+  "salida": 577,
+  "cache_escritura": 2425,
+  "cache_lectura": 163500,
+  "respuestas": 2,
+  "total": 166506
+ },
+ {
+  "fecha": "2026-11-03",
+  "proyecto": "Eat-em",
+  "entrada": 16,
+  "salida": 4395,
+  "cache_escritura": 16083,
+  "cache_lectura": 915529,
+  "respuestas": 8,
+  "total": 936023
+ },
+ {
+  "fecha": "2026-11-03",
+  "proyecto": "Portfolio-main",
+  "entrada": 120,
+  "salida": 35948,
+  "cache_escritura": 119560,
+  "cache_lectura": 7100023,
+  "respuestas": 54,
+  "total": 7255651
+ },
+ {
+  "fecha": "2026-11-03",
+  "proyecto": "Precios-ML",
+  "entrada": 32,
+  "salida": 25185,
+  "cache_escritura": 27166,
+  "cache_lectura": 2580278,
+  "respuestas": 16,
+  "total": 2632661
+ },
+ {
+  "fecha": "2026-11-03",
+  "proyecto": "StatsRun",
+  "entrada": 572,
+  "salida": 238052,
+  "cache_escritura": 842087,
+  "cache_lectura": 116008997,
+  "respuestas": 283,
+  "total": 117089708
  }
 ]

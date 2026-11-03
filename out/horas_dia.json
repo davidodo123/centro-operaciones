@@ -135,6 +135,11 @@
   "horas": 1.1
  },
  {
+  "proyecto": "StatsRun",
+  "fecha": "2026-11-03",
+  "horas": 3.44
+ },
+ {
   "proyecto": "Lifer",
   "fecha": "2026-10-18",
   "horas": 0.58
@@ -153,5 +158,15 @@
   "proyecto": "Mi web personal",
   "fecha": "2026-10-26",
   "horas": 0.5
+ },
+ {
+  "proyecto": "Mi web personal",
+  "fecha": "2026-11-03",
+  "horas": 1.62
+ },
+ {
+  "proyecto": "Precios-ML",
+  "fecha": "2026-11-03",
+  "horas": 0.96
  }
 ]
