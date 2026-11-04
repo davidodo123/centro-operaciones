@@ -86,8 +86,8 @@
  {
   "proyecto": "StatsRun",
   "fase": "Pruebas con 1.000 usuarios (lo pidió David 2026-10-31)",
-  "hechas": 22,
-  "total": 22,
+  "hechas": 27,
+  "total": 27,
   "pct": 100
  },
  {
@@ -128,9 +128,9 @@
  {
   "proyecto": "StatsRun",
   "fase": "Batería de pruebas",
-  "hechas": 5,
-  "total": 6,
-  "pct": 83
+  "hechas": 5.5,
+  "total": 7,
+  "pct": 79
  },
  {
   "proyecto": "StatsRun",
@@ -149,9 +149,9 @@
  {
   "proyecto": "StatsRun",
   "fase": "Pedido por David (2026-10-26)",
-  "hechas": 20,
-  "total": 24,
-  "pct": 83
+  "hechas": 21,
+  "total": 25,
+  "pct": 84
  },
  {
   "proyecto": "StatsRun",
