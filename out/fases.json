@@ -2,23 +2,23 @@
  {
   "proyecto": "Eat-em",
   "fase": "Fase 1 · Datos de supermercados",
-  "hechas": 8.5,
-  "total": 9,
-  "pct": 94
+  "hechas": 11,
+  "total": 11,
+  "pct": 100
  },
  {
   "proyecto": "Eat-em",
   "fase": "Fase 2 · App móvil",
-  "hechas": 23.5,
-  "total": 24,
-  "pct": 98
+  "hechas": 30,
+  "total": 33,
+  "pct": 91
  },
  {
   "proyecto": "Eat-em",
   "fase": "Fase 3 · Publicar",
-  "hechas": 3.5,
-  "total": 4,
-  "pct": 88
+  "hechas": 4,
+  "total": 5,
+  "pct": 80
  },
  {
   "proyecto": "StatsRun",
@@ -149,9 +149,9 @@
  {
   "proyecto": "StatsRun",
   "fase": "Pedido por David (2026-10-26)",
-  "hechas": 21,
-  "total": 25,
-  "pct": 84
+  "hechas": 21.5,
+  "total": 26,
+  "pct": 83
  },
  {
   "proyecto": "StatsRun",

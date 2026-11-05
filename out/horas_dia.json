@@ -30,6 +30,11 @@
   "horas": 2.43
  },
  {
+  "proyecto": "Eat-em",
+  "fecha": "2026-11-05",
+  "horas": 2.19
+ },
+ {
   "proyecto": "StatsRun",
   "fecha": "2026-10-08",
   "horas": 0.5
@@ -143,6 +148,11 @@
   "proyecto": "StatsRun",
   "fecha": "2026-11-04",
   "horas": 1.83
+ },
+ {
+  "proyecto": "StatsRun",
+  "fecha": "2026-11-05",
+  "horas": 0.78
  },
  {
   "proyecto": "Lifer",

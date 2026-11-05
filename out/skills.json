@@ -1,0 +1,914 @@
+[
+ {
+  "id": "discord-access",
+  "nombre": "access",
+  "agente": "",
+  "para": "Manage Discord channel access — approve pairings, edit allowlists, set DM/group policy. Us",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "imessage-access",
+  "nombre": "access",
+  "agente": "",
+  "para": "Manage iMessage channel access — approve pairings, edit allowlists, set DM/group policy. U",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "telegram-access",
+  "nombre": "access",
+  "agente": "",
+  "para": "Manage Telegram channel access — approve pairings, edit allowlists, set DM/group policy. U",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "plugin-dev-agent-development",
+  "nombre": "agent-development",
+  "agente": "",
+  "para": "This skill should be used when the user asks to \"create an agent\", \"add an agent\", \"write ",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "agentic-os",
+  "nombre": "agentic-os",
+  "agente": "@kernel",
+  "para": "Arquitectura del sistema de agentes",
+  "origen": "affaan-m/everything-claude-code",
+  "fuentes": "claude.ai",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "antislop",
+  "nombre": "antislop",
+  "agente": "@diseño",
+  "para": "Filtro anti-slop base",
+  "origen": "claude.ai",
+  "fuentes": "claude.ai",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "antislop-copywriting",
+  "nombre": "antislop-copywriting",
+  "agente": "@diseño",
+  "para": "Textos sin tono de IA",
+  "origen": "claude.ai",
+  "fuentes": "claude.ai",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "antislop-human",
+  "nombre": "antislop-human",
+  "agente": "@diseño",
+  "para": "Accesibilidad y contraste",
+  "origen": "claude.ai",
+  "fuentes": "claude.ai",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "antislop-layoutmobile",
+  "nombre": "antislop-layoutmobile",
+  "agente": "@diseño",
+  "para": "Layouts que funcionan en móvil",
+  "origen": "claude.ai",
+  "fuentes": "claude.ai",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "antislop-ui",
+  "nombre": "antislop-ui",
+  "agente": "@diseño",
+  "para": "Interfaz sin aspecto genérico",
+  "origen": "claude.ai",
+  "fuentes": "claude.ai",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "awesome-design-md",
+  "nombre": "awesome-design-md",
+  "agente": "@diseño",
+  "para": "Diseñar con el estilo de una marca conocida",
+  "origen": "VoltAgent/awesome-design-md",
+  "fuentes": "claude.ai",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "mcp-server-dev-build-mcp-app",
+  "nombre": "build-mcp-app",
+  "agente": "",
+  "para": "This skill should be used when the user wants to build an \"MCP app\", add \"interactive UI\" ",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "mcp-server-dev-build-mcp-server",
+  "nombre": "build-mcp-server",
+  "agente": "",
+  "para": "This skill should be used when the user asks to \"build an MCP server\", \"create an MCP\", \"m",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "mcp-server-dev-build-mcpb",
+  "nombre": "build-mcpb",
+  "agente": "",
+  "para": "This skill should be used when the user wants to \"package an MCP server\", \"bundle an MCP\",",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "built-in-browser",
+  "nombre": "built-in-browser",
+  "agente": "",
+  "para": "Skill de Anthropic incluida en claude.ai.",
+  "origen": "claude.ai (Anthropic)",
+  "fuentes": "claude.ai (Anthropic)",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "cwc-makers-cardputer-buddy",
+  "nombre": "cardputer-buddy",
+  "agente": "",
+  "para": "Iterate on the Cardputer-Adv MicroPython app bundle (Claude Buddy, Snake, Hello) after the",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "-agents-cavecrew",
+  "nombre": "cavecrew",
+  "agente": "",
+  "para": "Decision guide for delegating to caveman-style subagents. Tells the main thread WHEN to sp",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "-junie-cavecrew",
+  "nombre": "cavecrew",
+  "agente": "",
+  "para": "Decision guide for delegating to caveman-style subagents. Tells the main thread WHEN to sp",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "-kiro-cavecrew",
+  "nombre": "cavecrew",
+  "agente": "",
+  "para": "Decision guide for delegating to caveman-style subagents. Tells the main thread WHEN to sp",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "-roo-cavecrew",
+  "nombre": "cavecrew",
+  "agente": "",
+  "para": "Decision guide for delegating to caveman-style subagents. Tells the main thread WHEN to sp",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "caveman-cavecrew",
+  "nombre": "cavecrew",
+  "agente": "",
+  "para": "Decision guide for delegating to caveman-style subagents. Tells the main thread WHEN to sp",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "655b7d9c5431-cavecrew",
+  "nombre": "cavecrew",
+  "agente": "",
+  "para": "Decision guide for delegating to caveman-style subagents. Tells the main thread WHEN to sp",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "caveman-caveman",
+  "nombre": "caveman",
+  "agente": "@kernel",
+  "para": "Respuestas cortas, menos tokens",
+  "origen": "JuliusBrussee/caveman",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "655b7d9c5431-caveman",
+  "nombre": "caveman",
+  "agente": "@kernel",
+  "para": "Respuestas cortas, menos tokens",
+  "origen": "JuliusBrussee/caveman",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "caveman",
+  "nombre": "caveman",
+  "agente": "@kernel",
+  "para": "Respuestas cortas, menos tokens",
+  "origen": "JuliusBrussee/caveman",
+  "fuentes": "claude.ai",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "655b7d9c5431-caveman-commit",
+  "nombre": "caveman-commit",
+  "agente": "",
+  "para": "Ultra-compressed commit message generator. Cuts noise from commit messages while preservin",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "caveman-caveman-commit",
+  "nombre": "caveman-commit",
+  "agente": "",
+  "para": "Ultra-compressed commit message generator. Cuts noise from commit messages while preservin",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "caveman-caveman-compress",
+  "nombre": "caveman-compress",
+  "agente": "",
+  "para": "Compress natural language memory files (CLAUDE.md, todos, preferences) into caveman format",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "655b7d9c5431-caveman-compress",
+  "nombre": "caveman-compress",
+  "agente": "",
+  "para": "Compress natural language memory files (CLAUDE.md, todos, preferences) into caveman format",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "655b7d9c5431-caveman-help",
+  "nombre": "caveman-help",
+  "agente": "",
+  "para": "Quick-reference card for all caveman modes, skills, and commands. One-shot display, not a ",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "caveman-caveman-help",
+  "nombre": "caveman-help",
+  "agente": "",
+  "para": "Quick-reference card for all caveman modes, skills, and commands. One-shot display, not a ",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "655b7d9c5431-caveman-review",
+  "nombre": "caveman-review",
+  "agente": "",
+  "para": "Ultra-compressed code review comments. Cuts noise from PR feedback while preserving the ac",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "caveman-caveman-review",
+  "nombre": "caveman-review",
+  "agente": "",
+  "para": "Ultra-compressed code review comments. Cuts noise from PR feedback while preserving the ac",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "caveman-caveman-stats",
+  "nombre": "caveman-stats",
+  "agente": "",
+  "para": "Show real token usage and estimated savings for the current session. Reads directly from t",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "655b7d9c5431-caveman-stats",
+  "nombre": "caveman-stats",
+  "agente": "",
+  "para": "Show real token usage and estimated savings for the current session. Reads directly from t",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "centro-operaciones",
+  "nombre": "centro-operaciones",
+  "agente": "@kernel",
+  "para": "Kernel del Centro de Operaciones",
+  "origen": "claude.ai",
+  "fuentes": "claude.ai",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "chrome-browser",
+  "nombre": "chrome-browser",
+  "agente": "",
+  "para": "Skill de Anthropic incluida en claude.ai.",
+  "origen": "claude.ai (Anthropic)",
+  "fuentes": "claude.ai (Anthropic)",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "claude-code-setup-claude-automation-recommender",
+  "nombre": "claude-automation-recommender",
+  "agente": "",
+  "para": "Analyze a codebase and recommend Claude Code automations (hooks, subagents, skills, plugin",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "claude-md-management-claude-md-improver",
+  "nombre": "claude-md-improver",
+  "agente": "",
+  "para": "Audit and improve CLAUDE.md files in repositories. Use when user asks to check, audit, upd",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "claude-security-claude-security",
+  "nombre": "claude-security",
+  "agente": "",
+  "para": "Claude Security: scan the codebase (the whole repository or a scoped part of it), scan cha",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "plugin-dev-command-development",
+  "nombre": "command-development",
+  "agente": "",
+  "para": "This skill should be used when the user asks to \"create a slash command\", \"add a command\",",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "computer-use",
+  "nombre": "computer-use",
+  "agente": "",
+  "para": "Skill de Anthropic incluida en claude.ai.",
+  "origen": "claude.ai (Anthropic)",
+  "fuentes": "claude.ai (Anthropic)",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "discord-configure",
+  "nombre": "configure",
+  "agente": "",
+  "para": "Set up the Discord channel — save the bot token and review access policy. Use when the use",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "imessage-configure",
+  "nombre": "configure",
+  "agente": "",
+  "para": "Check iMessage channel setup and review access policy. Use when the user asks to configure",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "telegram-configure",
+  "nombre": "configure",
+  "agente": "",
+  "para": "Set up the Telegram channel — save the bot token and review access policy. Use when the us",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "deep-research",
+  "nombre": "deep-research",
+  "agente": "@research",
+  "para": "Informes de investigación con varias fuentes",
+  "origen": "claude.ai (Anthropic)",
+  "fuentes": "claude.ai (Anthropic)",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "docs",
+  "nombre": "docs",
+  "agente": "",
+  "para": "Skill de Anthropic incluida en claude.ai.",
+  "origen": "claude.ai (Anthropic)",
+  "fuentes": "claude.ai (Anthropic)",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "example-plugin-example-command",
+  "nombre": "example-command",
+  "agente": "",
+  "para": "An example user-invoked skill that demonstrates frontmatter options and the skills/<name>/",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "example-plugin-example-skill",
+  "nombre": "example-skill",
+  "agente": "",
+  "para": "This skill should be used when the user asks to \"demonstrate skills\", \"show skill format\",",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "find-skills",
+  "nombre": "find-skills",
+  "agente": "@research",
+  "para": "Buscar e instalar skills de skills.sh",
+  "origen": "vercel-labs/skills",
+  "fuentes": "claude.ai",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "frontend-design-frontend-design",
+  "nombre": "frontend-design",
+  "agente": "",
+  "para": "Guidance for distinctive, intentional visual design when building new UI or reshaping an e",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "google-workspace",
+  "nombre": "google-workspace",
+  "agente": "",
+  "para": "Skill de Anthropic incluida en claude.ai.",
+  "origen": "claude.ai (Anthropic)",
+  "fuentes": "claude.ai (Anthropic)",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "plugin-dev-hook-development",
+  "nombre": "hook-development",
+  "agente": "",
+  "para": "This skill should be used when the user asks to \"create a hook\", \"add a PreToolUse/PostToo",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "hyperframes",
+  "nombre": "hyperframes",
+  "agente": "@vídeo",
+  "para": "Vídeos de lanzamiento de webs y apps",
+  "origen": "claude.ai",
+  "fuentes": "claude.ai",
+  "activa": true,
+  "proyectos": [
+   "StatsRun"
+  ]
+ },
+ {
+  "id": "hyperframes-cli",
+  "nombre": "hyperframes-cli",
+  "agente": "@vídeo",
+  "para": "Comandos de HyperFrames",
+  "origen": "claude.ai",
+  "fuentes": "claude.ai",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "import-memory",
+  "nombre": "import-memory",
+  "agente": "",
+  "para": "Skill de Anthropic incluida en claude.ai.",
+  "origen": "claude.ai (Anthropic)",
+  "fuentes": "claude.ai (Anthropic)",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "cwc-makers-m5-onboard",
+  "nombre": "m5-onboard",
+  "agente": "",
+  "para": "End-to-end onboarding for a freshly-plugged-in M5Stack ESP32 device (Cardputer, Cardputer-",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "math-olympiad-math-olympiad",
+  "nombre": "math-olympiad",
+  "agente": "",
+  "para": "",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "plugin-dev-mcp-integration",
+  "nombre": "mcp-integration",
+  "agente": "",
+  "para": "This skill should be used when the user asks to \"add MCP server\", \"integrate MCP\", \"config",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "montaje-video",
+  "nombre": "montaje-video",
+  "agente": "@vídeo",
+  "para": "Cortar, unir y grabar vídeo",
+  "origen": "claude.ai",
+  "fuentes": "claude.ai",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "morning",
+  "nombre": "morning",
+  "agente": "",
+  "para": "Skill de Anthropic incluida en claude.ai.",
+  "origen": "claude.ai (Anthropic)",
+  "fuentes": "claude.ai (Anthropic)",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "n8n-code-javascript",
+  "nombre": "n8n-code-javascript",
+  "agente": "",
+  "para": "Write JavaScript code in n8n Code nodes. Use when writing JavaScript in n8n, using $input/",
+  "origen": "local",
+  "fuentes": "local",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "n8n-code-python",
+  "nombre": "n8n-code-python",
+  "agente": "",
+  "para": "Write Python code in n8n Code nodes. Use when writing Python in n8n, using _input/_json/_n",
+  "origen": "local",
+  "fuentes": "local",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "n8n-expression-syntax",
+  "nombre": "n8n-expression-syntax",
+  "agente": "",
+  "para": "Validate n8n expression syntax and fix common errors. Use when writing n8n expressions, us",
+  "origen": "local",
+  "fuentes": "local",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "n8n-mcp-tools-expert",
+  "nombre": "n8n-mcp-tools-expert",
+  "agente": "",
+  "para": "Expert guide for using n8n-mcp MCP tools effectively. Use when searching for nodes, valida",
+  "origen": "local",
+  "fuentes": "local",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "n8n-node-configuration",
+  "nombre": "n8n-node-configuration",
+  "agente": "",
+  "para": "Operation-aware node configuration guidance. Use when configuring nodes, understanding pro",
+  "origen": "local",
+  "fuentes": "local",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "n8n-validation-expert",
+  "nombre": "n8n-validation-expert",
+  "agente": "",
+  "para": "Interpret validation errors and guide fixing them. Use when encountering validation errors",
+  "origen": "local",
+  "fuentes": "local",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "n8n-workflow-patterns",
+  "nombre": "n8n-workflow-patterns",
+  "agente": "",
+  "para": "Proven workflow architectural patterns from real n8n workflows. Use when building new work",
+  "origen": "local",
+  "fuentes": "local",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "playground-playground",
+  "nombre": "playground",
+  "agente": "",
+  "para": "Creates interactive HTML playgrounds — self-contained single-file explorers that let users",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "plugin-dev-plugin-settings",
+  "nombre": "plugin-settings",
+  "agente": "",
+  "para": "This skill should be used when the user asks about \"plugin settings\", \"store plugin config",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "plugin-dev-plugin-structure",
+  "nombre": "plugin-structure",
+  "agente": "",
+  "para": "This skill should be used when the user asks to \"create a plugin\", \"scaffold a plugin\", \"u",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "project-artifact-project-artifact",
+  "nombre": "project-artifact",
+  "agente": "",
+  "para": "Generate and publish a project status artifact — an opinionated, tabbed status page for a ",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "react-native-skills",
+  "nombre": "react-native-skills",
+  "agente": "@dev",
+  "para": "Buenas prácticas en apps móviles con Expo",
+  "origen": "vercel-labs/agent-skills",
+  "fuentes": "claude.ai",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "receipts-receipts",
+  "nombre": "receipts",
+  "agente": "",
+  "para": "Generate a personal Claude Code usage & impact report (\"receipts\") from this machine's loc",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "redesign-existing-projects",
+  "nombre": "redesign-existing-projects",
+  "agente": "@diseño",
+  "para": "Mejorar webs y apps que ya existen",
+  "origen": "leonxlnx/taste-skill",
+  "fuentes": "claude.ai",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "remotion-video",
+  "nombre": "remotion-video",
+  "agente": "@vídeo",
+  "para": "Vídeos animados con React",
+  "origen": "claude.ai",
+  "fuentes": "claude.ai",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "session-report-session-report",
+  "nombre": "session-report",
+  "agente": "",
+  "para": "Generate an explorable HTML report of Claude Code session usage (tokens, cache, subagents,",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "math-proof-siege",
+  "nombre": "siege",
+  "agente": "",
+  "para": "Work on one hard mathematics problem in rounds: each round a judge writes a few self-conta",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "skill-creator-skill-creator",
+  "nombre": "skill-creator",
+  "agente": "@kernel",
+  "para": "Crear y mejorar skills",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "skill-creator",
+  "nombre": "skill-creator",
+  "agente": "@kernel",
+  "para": "Crear y mejorar skills",
+  "origen": "claude.ai (Anthropic)",
+  "fuentes": "claude.ai (Anthropic)",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "plugin-dev-skill-development",
+  "nombre": "skill-development",
+  "agente": "",
+  "para": "This skill should be used when the user wants to \"create a skill\", \"add a skill to plugin\"",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "math-proof-solo",
+  "nombre": "solo",
+  "agente": "",
+  "para": "Work on one hard mathematics problem in this session yourself, with no sub-agents: reason ",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "taste-skill",
+  "nombre": "taste-skill",
+  "agente": "@diseño",
+  "para": "Dirección de arte para landings y webs públicas",
+  "origen": "leonxlnx/taste-skill",
+  "fuentes": "claude.ai",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "thermo-nuclear-code-quality-review",
+  "nombre": "thermo-nuclear-code-quality-review",
+  "agente": "@dev",
+  "para": "Revisar calidad de código de una rama",
+  "origen": "claude.ai",
+  "fuentes": "claude.ai",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "thermo-nuclear-review",
+  "nombre": "thermo-nuclear-review",
+  "agente": "@dev",
+  "para": "Buscar bugs y fallos de seguridad antes de mergear",
+  "origen": "claude.ai",
+  "fuentes": "claude.ai",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "ui-ux-pro-max",
+  "nombre": "ui-ux-pro-max",
+  "agente": "@diseño",
+  "para": "Sistema de diseño de apps web y móvil",
+  "origen": "claude.ai",
+  "fuentes": "claude.ai",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "video-audio-pro",
+  "nombre": "video-audio-pro",
+  "agente": "@vídeo",
+  "para": "Sonido, subtítulos y color",
+  "origen": "claude.ai",
+  "fuentes": "claude.ai",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "video-reader",
+  "nombre": "video-reader",
+  "agente": "@research",
+  "para": "Resumir o transcribir vídeos",
+  "origen": "claude.ai",
+  "fuentes": "claude.ai",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "web-design-engineer",
+  "nombre": "web-design-engineer",
+  "agente": "@diseño",
+  "para": "Páginas y prototipos en HTML/CSS/JS",
+  "origen": "claude.ai",
+  "fuentes": "claude.ai",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "web-design-guidelines",
+  "nombre": "web-design-guidelines",
+  "agente": "@diseño",
+  "para": "Auditar interfaz y accesibilidad",
+  "origen": "vercel-labs/agent-skills",
+  "fuentes": "claude.ai",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "hookify-writing-hookify-rules",
+  "nombre": "writing-hookify-rules",
+  "agente": "",
+  "para": "This skill should be used when the user asks to \"create a hookify rule\", \"write a hook rul",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ }
+]

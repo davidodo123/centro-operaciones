@@ -558,5 +558,35 @@
   "cache_lectura": 109729922,
   "respuestas": 147,
   "total": 110762207
+ },
+ {
+  "fecha": "2026-11-05",
+  "proyecto": "buzon",
+  "entrada": 110,
+  "salida": 110563,
+  "cache_escritura": 240175,
+  "cache_lectura": 9464992,
+  "respuestas": 54,
+  "total": 9815840
+ },
+ {
+  "fecha": "2026-11-05",
+  "proyecto": "Eat-em",
+  "entrada": 166,
+  "salida": 122112,
+  "cache_escritura": 396035,
+  "cache_lectura": 27266231,
+  "respuestas": 83,
+  "total": 27784544
+ },
+ {
+  "fecha": "2026-11-05",
+  "proyecto": "StatsRun",
+  "entrada": 40,
+  "salida": 42595,
+  "cache_escritura": 986611,
+  "cache_lectura": 6706819,
+  "respuestas": 20,
+  "total": 7736065
  }
 ]
