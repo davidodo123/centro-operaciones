@@ -582,11 +582,41 @@
  {
   "fecha": "2026-11-05",
   "proyecto": "StatsRun",
-  "entrada": 40,
-  "salida": 42595,
-  "cache_escritura": 986611,
-  "cache_lectura": 6706819,
-  "respuestas": 20,
-  "total": 7736065
+  "entrada": 166,
+  "salida": 117827,
+  "cache_escritura": 1159998,
+  "cache_lectura": 17646579,
+  "respuestas": 80,
+  "total": 18924570
+ },
+ {
+  "fecha": "2026-11-06",
+  "proyecto": "david",
+  "entrada": 22,
+  "salida": 36838,
+  "cache_escritura": 69509,
+  "cache_lectura": 539184,
+  "respuestas": 10,
+  "total": 645553
+ },
+ {
+  "fecha": "2026-11-06",
+  "proyecto": "StatsRun",
+  "entrada": 34,
+  "salida": 28123,
+  "cache_escritura": 55270,
+  "cache_lectura": 5442491,
+  "respuestas": 17,
+  "total": 5525918
+ },
+ {
+  "fecha": "2026-11-06",
+  "proyecto": "xmb-launcher",
+  "entrada": 26,
+  "salida": 8504,
+  "cache_escritura": 37515,
+  "cache_lectura": 1133694,
+  "respuestas": 13,
+  "total": 1179739
  }
 ]

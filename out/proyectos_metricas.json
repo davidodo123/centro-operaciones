@@ -10,31 +10,31 @@
   "horas": 19,
   "primer_commit": "2026-10-13",
   "ultimo_commit": "2026-11-05",
-  "calculado": "2026-11-05"
+  "calculado": "2026-11-07"
  },
  {
   "id": "statsrun",
   "proyecto": "StatsRun",
   "repo": "davidodo123/StatsRun",
   "progreso": 84,
-  "metodo_progreso": "176 de 211 tareas del Roadmap (Obsidian)",
-  "commits": 204,
+  "metodo_progreso": "178 de 213 tareas del Roadmap (Obsidian)",
+  "commits": 211,
   "sesiones": 38,
-  "horas": 64.3,
+  "horas": 66.7,
   "primer_commit": "2026-10-08",
-  "ultimo_commit": "2026-11-05",
-  "calculado": "2026-11-05",
+  "ultimo_commit": "2026-11-06",
+  "calculado": "2026-11-07",
   "app_usuarios": 8,
   "app_activos7": 2,
   "app_nuevos_semana": 1,
-  "app_entrenos_semana": 9,
+  "app_entrenos_semana": 10,
   "app_ia_mensajes_hoy": 0,
-  "app_ia_reajustes_hoy": 1,
-  "app_fallos_ia": 1,
+  "app_ia_reajustes_hoy": 0,
+  "app_fallos_ia": 0,
   "app_datos_kb": 82,
   "app_copia_ok": true,
-  "app_copia_fecha": "2026-11-05",
-  "app_leido": "2026-11-05T21:30:12.008Z"
+  "app_copia_fecha": "2026-11-07",
+  "app_leido": "2026-11-07T09:28:28.009Z"
  },
  {
   "id": "lifer",
@@ -47,7 +47,7 @@
   "horas": 0.6,
   "primer_commit": "2026-10-18",
   "ultimo_commit": "2026-10-18",
-  "calculado": "2026-11-05"
+  "calculado": "2026-11-07"
  },
  {
   "id": "portfolio",
@@ -60,7 +60,7 @@
   "horas": 6,
   "primer_commit": "2026-06-03",
   "ultimo_commit": "2026-11-03",
-  "calculado": "2026-11-05"
+  "calculado": "2026-11-07"
  },
  {
   "id": "precios-ml",
@@ -73,6 +73,6 @@
   "horas": 1,
   "primer_commit": "2026-11-03",
   "ultimo_commit": "2026-11-03",
-  "calculado": "2026-11-05"
+  "calculado": "2026-11-07"
  }
 ]

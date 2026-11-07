@@ -400,6 +400,16 @@
   "proyectos": []
  },
  {
+  "id": "champion-kit-climb",
+  "nombre": "climb",
+  "agente": "",
+  "para": "Work out where a teammate, the champion, or a team is on the steps of AI adoption, and wha",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
   "id": "plugin-dev-command-development",
   "nombre": "command-development",
   "agente": "",
@@ -490,6 +500,16 @@
   "proyectos": []
  },
  {
+  "id": "champion-kit-faq",
+  "nombre": "faq",
+  "agente": "",
+  "para": "Turn repeat questions into a pinned FAQ. Use when a champion keeps answering the same ques",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
   "id": "find-skills",
   "nombre": "find-skills",
   "agente": "@research",
@@ -516,6 +536,16 @@
   "para": "Skill de Anthropic incluida en claude.ai.",
   "origen": "claude.ai (Anthropic)",
   "fuentes": "claude.ai (Anthropic)",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "champion-kit-hackathon",
+  "nombre": "hackathon",
+  "agente": "",
+  "para": "Plan a hackathon, either from a team's real backlog or as open-ended creative play with Cl",
+  "origen": "plugin",
+  "fuentes": "plugin",
   "activa": true,
   "proyectos": []
  },
@@ -576,6 +606,16 @@
   "nombre": "math-olympiad",
   "agente": "",
   "para": "",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "champion-kit-maturity",
+  "nombre": "maturity",
+  "agente": "",
+  "para": "Evaluate an organization's AI maturity on the steps of AI adoption and write a polished, s",
   "origen": "plugin",
   "fuentes": "plugin",
   "activa": true,
@@ -682,6 +722,26 @@
   "proyectos": []
  },
  {
+  "id": "champion-kit-office-hours",
+  "nombre": "office-hours",
+  "agente": "",
+  "para": "Set up and run Claude Code office hours, including the calendar event when the champion's ",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "champion-kit-patterns",
+  "nombre": "patterns",
+  "agente": "",
+  "para": "Find patterns worth sharing from recent PRs and repo history, both repeats to fix and good",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
   "id": "playground-playground",
   "nombre": "playground",
   "agente": "",
@@ -758,6 +818,16 @@
   "para": "Vídeos animados con React",
   "origen": "claude.ai",
   "fuentes": "claude.ai",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "champion-kit-routines",
+  "nombre": "routines",
+  "agente": "",
+  "para": "Set up recurring champion routines as Claude Code scheduled tasks. Use when a champion wan",
+  "origen": "plugin",
+  "fuentes": "plugin",
   "activa": true,
   "proyectos": []
  },
