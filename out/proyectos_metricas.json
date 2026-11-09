@@ -10,7 +10,7 @@
   "horas": 19,
   "primer_commit": "2026-10-13",
   "ultimo_commit": "2026-11-05",
-  "calculado": "2026-11-08"
+  "calculado": "2026-11-09"
  },
  {
   "id": "statsrun",
@@ -23,18 +23,18 @@
   "horas": 66.7,
   "primer_commit": "2026-10-08",
   "ultimo_commit": "2026-11-06",
-  "calculado": "2026-11-08",
+  "calculado": "2026-11-09",
   "app_usuarios": 8,
   "app_activos7": 2,
-  "app_nuevos_semana": 1,
-  "app_entrenos_semana": 10,
-  "app_ia_mensajes_hoy": 0,
+  "app_nuevos_semana": 0,
+  "app_entrenos_semana": 0,
+  "app_ia_mensajes_hoy": 2,
   "app_ia_reajustes_hoy": 0,
   "app_fallos_ia": 0,
-  "app_datos_kb": 83,
+  "app_datos_kb": 84,
   "app_copia_ok": true,
-  "app_copia_fecha": "2026-11-08",
-  "app_leido": "2026-11-08T16:44:29.531Z"
+  "app_copia_fecha": "2026-11-09",
+  "app_leido": "2026-11-09T21:30:14.078Z"
  },
  {
   "id": "lifer",
@@ -47,7 +47,7 @@
   "horas": 0.6,
   "primer_commit": "2026-10-18",
   "ultimo_commit": "2026-10-18",
-  "calculado": "2026-11-08"
+  "calculado": "2026-11-09"
  },
  {
   "id": "portfolio",
@@ -60,7 +60,7 @@
   "horas": 6,
   "primer_commit": "2026-06-03",
   "ultimo_commit": "2026-11-03",
-  "calculado": "2026-11-08"
+  "calculado": "2026-11-09"
  },
  {
   "id": "precios-ml",
@@ -73,6 +73,6 @@
   "horas": 1,
   "primer_commit": "2026-11-03",
   "ultimo_commit": "2026-11-03",
-  "calculado": "2026-11-08"
+  "calculado": "2026-11-09"
  }
 ]

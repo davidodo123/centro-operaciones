@@ -10,56 +10,6 @@
   "total": 13323995
  },
  {
-  "fecha": "2026-10-08",
-  "proyecto": "01-app",
-  "entrada": 8,
-  "salida": 8243,
-  "cache_escritura": 10978,
-  "cache_lectura": 235900,
-  "respuestas": 4,
-  "total": 255129
- },
- {
-  "fecha": "2026-10-08",
-  "proyecto": "engine",
-  "entrada": 6,
-  "salida": 22085,
-  "cache_escritura": 22822,
-  "cache_lectura": 299291,
-  "respuestas": 3,
-  "total": 344204
- },
- {
-  "fecha": "2026-10-08",
-  "proyecto": "fit-file-parser",
-  "entrada": 8,
-  "salida": 14376,
-  "cache_escritura": 14835,
-  "cache_lectura": 953618,
-  "respuestas": 4,
-  "total": 982837
- },
- {
-  "fecha": "2026-10-08",
-  "proyecto": "STATS",
-  "entrada": 46,
-  "salida": 28232,
-  "cache_escritura": 42723,
-  "cache_lectura": 4495005,
-  "respuestas": 23,
-  "total": 4566006
- },
- {
-  "fecha": "2026-10-08",
-  "proyecto": "web",
-  "entrada": 162,
-  "salida": 125716,
-  "cache_escritura": 200722,
-  "cache_lectura": 16260228,
-  "respuestas": 81,
-  "total": 16586828
- },
- {
   "fecha": "2026-10-09",
   "proyecto": "Desktop",
   "entrada": 2,
@@ -618,5 +568,25 @@
   "cache_lectura": 1133694,
   "respuestas": 13,
   "total": 1179739
+ },
+ {
+  "fecha": "2026-11-08",
+  "proyecto": "david",
+  "entrada": 24,
+  "salida": 11236,
+  "cache_escritura": 35469,
+  "cache_lectura": 693471,
+  "respuestas": 12,
+  "total": 740200
+ },
+ {
+  "fecha": "2026-11-08",
+  "proyecto": "System32",
+  "entrada": 74,
+  "salida": 106214,
+  "cache_escritura": 182395,
+  "cache_lectura": 3163213,
+  "respuestas": 37,
+  "total": 3451896
  }
 ]
