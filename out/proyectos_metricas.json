@@ -3,14 +3,14 @@
   "id": "eat-em",
   "proyecto": "Eat-em",
   "repo": "davidodo123/Eat-em",
-  "progreso": 92,
-  "metodo_progreso": "45 de 49 tareas del Roadmap (Obsidian)",
+  "progreso": null,
+  "metodo_progreso": "0 de 0 fases hechas, 0 en curso (PENDIENTE.md)",
   "commits": 91,
   "sesiones": 9,
   "horas": 19,
   "primer_commit": "2026-10-13",
   "ultimo_commit": "2026-11-05",
-  "calculado": "2026-11-09"
+  "calculado": "2026-11-10"
  },
  {
   "id": "statsrun",
@@ -23,18 +23,18 @@
   "horas": 66.7,
   "primer_commit": "2026-10-08",
   "ultimo_commit": "2026-11-06",
-  "calculado": "2026-11-09",
+  "calculado": "2026-11-10",
   "app_usuarios": 8,
   "app_activos7": 2,
   "app_nuevos_semana": 0,
-  "app_entrenos_semana": 0,
-  "app_ia_mensajes_hoy": 2,
+  "app_entrenos_semana": 1,
+  "app_ia_mensajes_hoy": 0,
   "app_ia_reajustes_hoy": 0,
   "app_fallos_ia": 0,
   "app_datos_kb": 84,
   "app_copia_ok": true,
-  "app_copia_fecha": "2026-11-09",
-  "app_leido": "2026-11-09T21:30:14.078Z"
+  "app_copia_fecha": "2026-11-10",
+  "app_leido": "2026-11-10T21:30:43.745Z"
  },
  {
   "id": "lifer",
@@ -47,32 +47,6 @@
   "horas": 0.6,
   "primer_commit": "2026-10-18",
   "ultimo_commit": "2026-10-18",
-  "calculado": "2026-11-09"
- },
- {
-  "id": "portfolio",
-  "proyecto": "Mi web personal",
-  "repo": "davidodo123/Portfolio",
-  "progreso": 91,
-  "metodo_progreso": "32 de 35 tareas del Roadmap (Obsidian)",
-  "commits": 32,
-  "sesiones": 4,
-  "horas": 6,
-  "primer_commit": "2026-06-03",
-  "ultimo_commit": "2026-11-03",
-  "calculado": "2026-11-09"
- },
- {
-  "id": "precios-ml",
-  "proyecto": "Precios-ML",
-  "repo": "davidodo123/Precios-ML",
-  "progreso": 70,
-  "metodo_progreso": "7 de 10 tareas del Roadmap (Obsidian)",
-  "commits": 3,
-  "sesiones": 1,
-  "horas": 1,
-  "primer_commit": "2026-11-03",
-  "ultimo_commit": "2026-11-03",
-  "calculado": "2026-11-09"
+  "calculado": "2026-11-10"
  }
 ]

@@ -7,8 +7,8 @@
   "agente": "@dev",
   "stack": "Next.js · Supabase · Tailwind · Vercel",
   "descripcion": "App de móvil (PWA) para la compra de casa: Lista de lo que falta, Despensa con todo lo que hay y Dieta con las comidas de la semana o del mes. Pones tu ubicación y te da los productos y precios de los supermercados que tienes cerca.",
-  "siguiente": "Migración 13 escrita y probada: Deshacer una comida creaba comida de la nada. Falta aplicarla en el SQL Editor de Supabase",
-  "actualizado": "2026-11-09"
+  "siguiente": "Sin tareas pendientes en el Roadmap.",
+  "actualizado": "2026-11-10"
  },
  {
   "id": "statsrun",
@@ -19,7 +19,7 @@
   "stack": "Next.js · Capacitor · Tailwind · Vercel",
   "descripcion": "App de entrenamiento para corredores: planes hacia una carrera, registro de entrenos, forma/fatiga, amigos y un entrenador IA que adapta la rutina.",
   "siguiente": "Crear en la app una cuenta solo para los revisores de Google (correo y contraseña, con plan y algún entreno); sus datos, solo en Play Console",
-  "actualizado": "2026-11-09"
+  "actualizado": "2026-11-10"
  },
  {
   "id": "lifer",
@@ -30,28 +30,6 @@
   "stack": "Tailwind · Laravel",
   "descripcion": "Registro personal de todo lo que hago: películas y cine, series, entrenamientos, juegos y horas jugadas, quedadas y rutas con amigos, fotos indexadas desde disco/NAS y mis proyectos leídos del Centro de Operaciones.",
   "siguiente": "Indexar la carpeta real de fotos / NAS",
-  "actualizado": "2026-11-09"
- },
- {
-  "id": "portfolio",
-  "nombre": "Mi web personal",
-  "area": "Trabajo",
-  "estado": "Activo",
-  "agente": "@dev",
-  "stack": "Vercel",
-  "descripcion": "Web personal de David Santiago Bermúdez: sobre mí, trayectoria, proyectos y contacto. Sirve para buscar contrato en empresas como desarrollador de IA aplicada y datos.",
-  "siguiente": "Cambiar las capturas de Eat-em y Run-In-Out por pantallas de dentro de la app (eat-em.jpg, run-in-out.jpg)",
-  "actualizado": "2026-11-09"
- },
- {
-  "id": "precios-ml",
-  "nombre": "Precios-ML",
-  "area": "Trabajo",
-  "estado": "Activo",
-  "agente": "@dev",
-  "stack": "Python",
-  "descripcion": "Proyecto de machine learning con los datos propios de Eat-em: predecir qué productos de supermercado van a cambiar de precio en los próximos días. Sirve como proyecto de ML del portfolio para puestos de IA y datos.",
-  "siguiente": "Reentrenar con 2-3 meses de datos",
-  "actualizado": "2026-11-09"
+  "actualizado": "2026-11-10"
  }
 ]
