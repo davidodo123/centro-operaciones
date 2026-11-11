@@ -1,5 +1,26 @@
 [
  {
+  "proyecto": "Eat-em",
+  "fase": "Fase 1 · Datos de supermercados",
+  "hechas": 11,
+  "total": 11,
+  "pct": 100
+ },
+ {
+  "proyecto": "Eat-em",
+  "fase": "Fase 2 · App móvil",
+  "hechas": 30,
+  "total": 33,
+  "pct": 91
+ },
+ {
+  "proyecto": "Eat-em",
+  "fase": "Fase 3 · Publicar",
+  "hechas": 4,
+  "total": 5,
+  "pct": 80
+ },
+ {
   "proyecto": "StatsRun",
   "fase": "Fase 1 · Necesario",
   "hechas": 8,
@@ -65,9 +86,9 @@
  {
   "proyecto": "StatsRun",
   "fase": "Pruebas con 1.000 usuarios (lo pidió David 2026-10-31)",
-  "hechas": 29,
-  "total": 29,
-  "pct": 100
+  "hechas": 31,
+  "total": 32,
+  "pct": 97
  },
  {
   "proyecto": "StatsRun",
@@ -177,6 +198,69 @@
  {
   "proyecto": "Lifer",
   "fase": "Fase 5 · Extras",
+  "hechas": 0,
+  "total": 3,
+  "pct": 0
+ },
+ {
+  "proyecto": "aforo-ml",
+  "fase": "Fase 1 · Base (MVP)",
+  "hechas": 10,
+  "total": 11,
+  "pct": 91
+ },
+ {
+  "proyecto": "aforo-ml",
+  "fase": "Fase 2 · Calidad del modelo",
+  "hechas": 4,
+  "total": 8,
+  "pct": 50
+ },
+ {
+  "proyecto": "aforo-ml",
+  "fase": "Fase 3 · Producción de verdad",
+  "hechas": 5,
+  "total": 7,
+  "pct": 71
+ },
+ {
+  "proyecto": "aforo-ml",
+  "fase": "Fase 4 · Monitorización y reentrenamiento",
+  "hechas": 0,
+  "total": 4,
+  "pct": 0
+ },
+ {
+  "proyecto": "aforo-ml",
+  "fase": "Fase 5 · Portfolio",
+  "hechas": 0,
+  "total": 3,
+  "pct": 0
+ },
+ {
+  "proyecto": "Mi web personal",
+  "fase": "Fase 1 · Necesario",
+  "hechas": 16,
+  "total": 17,
+  "pct": 94
+ },
+ {
+  "proyecto": "Mi web personal",
+  "fase": "Fase 2 · Reposicionar hacia IA y datos",
+  "hechas": 16,
+  "total": 18,
+  "pct": 89
+ },
+ {
+  "proyecto": "Precios-ML",
+  "fase": "Fase 1 · Necesario",
+  "hechas": 7,
+  "total": 7,
+  "pct": 100
+ },
+ {
+  "proyecto": "Precios-ML",
+  "fase": "Fase 2 · Importante",
   "hechas": 0,
   "total": 3,
   "pct": 0
