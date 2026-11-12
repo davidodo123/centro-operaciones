@@ -110,6 +110,26 @@
   "proyectos": []
  },
  {
+  "id": "claude-for-manufacturing-breakdown-diagnosis",
+  "nombre": "breakdown-diagnosis",
+  "agente": "",
+  "para": "When a machine goes down, reads the sensor window before the failure, the asset's maintena",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "claude-for-manufacturing-breakdown-to-next-report",
+  "nombre": "breakdown-to-next-report",
+  "agente": "",
+  "para": "Runs the chain from a machine going down to the diagnosis landing in tomorrow's production",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
   "id": "mcp-server-dev-build-mcp-app",
   "nombre": "build-mcp-app",
   "agente": "",
@@ -460,12 +480,62 @@
   "proyectos": []
  },
  {
+  "id": "claude-for-manufacturing-custom-connector",
+  "nombre": "custom-connector",
+  "agente": "",
+  "para": "Gets the plugin talking to a manufacturing system that has no vendor MCP, working down a s",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "claude-for-manufacturing-customer-inquiry-intake",
+  "nombre": "customer-inquiry-intake",
+  "agente": "",
+  "para": "Reads a customer RFQ in whatever shape it arrived — a PDF drawing package, a 40-line sprea",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "claude-for-manufacturing-daily-production-report",
+  "nombre": "daily-production-report",
+  "agente": "",
+  "para": "Produces the morning production report: output against plan by line, cell and product; OEE",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "claude-for-manufacturing-data-consolidate",
+  "nombre": "data-consolidate",
+  "agente": "",
+  "para": "Joins the plant's scheduled exports and connector data into one working dataset — ERP item",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
   "id": "deep-research",
   "nombre": "deep-research",
   "agente": "@research",
   "para": "Informes de investigación con varias fuentes",
   "origen": "claude.ai (Anthropic)",
   "fuentes": "claude.ai (Anthropic)",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "claude-for-manufacturing-design-space-explore",
+  "nombre": "design-space-explore",
+  "agente": "",
+  "para": "Generates a batch of CAD variants directly in Autodesk Fusion by applying changed paramete",
+  "origen": "plugin",
+  "fuentes": "plugin",
   "activa": true,
   "proyectos": []
  },
@@ -592,6 +662,16 @@
   "proyectos": []
  },
  {
+  "id": "claude-for-manufacturing-inspection-to-capa",
+  "nombre": "inspection-to-capa",
+  "agente": "",
+  "para": "Runs the quality chain end to end: writes the nonconformance against the requirement it vi",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
   "id": "cwc-makers-m5-onboard",
   "nombre": "m5-onboard",
   "agente": "",
@@ -648,6 +728,16 @@
   "para": "Skill de Anthropic incluida en claude.ai.",
   "origen": "claude.ai (Anthropic)",
   "fuentes": "claude.ai (Anthropic)",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "claude-for-manufacturing-morning-plant-pulse",
+  "nombre": "morning-plant-pulse",
+  "agente": "",
+  "para": "Runs the overnight chain that has the morning production report waiting before anyone asks",
+  "origen": "plugin",
+  "fuentes": "plugin",
   "activa": true,
   "proyectos": []
  },
@@ -722,10 +812,30 @@
   "proyectos": []
  },
  {
+  "id": "claude-for-manufacturing-ncr-writeup",
+  "nombre": "ncr-writeup",
+  "agente": "",
+  "para": "Writes the nonconformance report: what was found and measured, the specific requirement it",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
   "id": "champion-kit-office-hours",
   "nombre": "office-hours",
   "agente": "",
   "para": "Set up and run Claude Code office hours, including the calendar event when the champion's ",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "claude-for-manufacturing-onboarding",
+  "nombre": "onboarding",
+  "agente": "",
+  "para": "Sets the plugin up for one plant on first run. Asks which ERP, CAD, CMMS and document syst",
   "origen": "plugin",
   "fuentes": "plugin",
   "activa": true,
@@ -782,6 +892,16 @@
   "proyectos": []
  },
  {
+  "id": "claude-for-manufacturing-quote-build",
+  "nombre": "quote-build",
+  "agente": "",
+  "para": "Produces the make-to-order quote from the intake form, comparable prior jobs and cost hist",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
   "id": "react-native-skills",
   "nombre": "react-native-skills",
   "agente": "@dev",
@@ -818,6 +938,26 @@
   "para": "Vídeos animados con React",
   "origen": "claude.ai",
   "fuentes": "claude.ai",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "claude-for-manufacturing-rfq-to-quote",
+  "nombre": "rfq-to-quote",
+  "agente": "",
+  "para": "Runs the whole RFQ-to-quote chain end to end: reads the inquiry and its drawings, checks i",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "claude-for-manufacturing-root-cause-capa",
+  "nombre": "root-cause-capa",
+  "agente": "",
+  "para": "Reads sensor history, inspection measurements, maintenance records and prior tickets onto ",
+  "origen": "plugin",
+  "fuentes": "plugin",
   "activa": true,
   "proyectos": []
  },
@@ -892,6 +1032,26 @@
   "proyectos": []
  },
  {
+  "id": "claude-for-manufacturing-supplier-escape-to-alternate-source",
+  "nombre": "supplier-escape-to-alternate-source",
+  "agente": "",
+  "para": "Runs the cross-area chain from a nonconformance traced to purchased material through to an",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "claude-for-manufacturing-supplier-quote-request",
+  "nombre": "supplier-quote-request",
+  "agente": "",
+  "para": "Builds the RFQ package that goes out to suppliers — drawing and specification at the verif",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
   "id": "taste-skill",
   "nombre": "taste-skill",
   "agente": "@diseño",
@@ -918,6 +1078,16 @@
   "para": "Buscar bugs y fallos de seguridad antes de mergear",
   "origen": "claude.ai",
   "fuentes": "claude.ai",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "claude-for-manufacturing-trade-study-report",
+  "nombre": "trade-study-report",
+  "agente": "",
+  "para": "Turns a filled-in trade study matrix and its analysis results into a scored comparison and",
+  "origen": "plugin",
+  "fuentes": "plugin",
   "activa": true,
   "proyectos": []
  },

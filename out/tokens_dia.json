@@ -558,5 +558,65 @@
   "cache_lectura": 21136361,
   "respuestas": 52,
   "total": 21635519
+ },
+ {
+  "fecha": "2026-11-12",
+  "proyecto": ".obsidian",
+  "entrada": 4,
+  "salida": 4590,
+  "cache_escritura": 6883,
+  "cache_lectura": 301852,
+  "respuestas": 2,
+  "total": 313329
+ },
+ {
+  "fecha": "2026-11-12",
+  "proyecto": "node_modules",
+  "entrada": 6,
+  "salida": 4676,
+  "cache_escritura": 7672,
+  "cache_lectura": 202301,
+  "respuestas": 3,
+  "total": 214655
+ },
+ {
+  "fecha": "2026-11-12",
+  "proyecto": "StatsRun",
+  "entrada": 92,
+  "salida": 48142,
+  "cache_escritura": 987853,
+  "cache_lectura": 22027859,
+  "respuestas": 46,
+  "total": 23063946
+ },
+ {
+  "fecha": "2026-11-12",
+  "proyecto": "TimesUp",
+  "entrada": 156,
+  "salida": 121971,
+  "cache_escritura": 356727,
+  "cache_lectura": 12092193,
+  "respuestas": 77,
+  "total": 12571047
+ },
+ {
+  "fecha": "2026-11-12",
+  "proyecto": "typescript",
+  "entrada": 2,
+  "salida": 219,
+  "cache_escritura": 668,
+  "cache_lectura": 64001,
+  "respuestas": 1,
+  "total": 64890
+ },
+ {
+  "fecha": "2026-11-12",
+  "proyecto": "v3",
+  "entrada": 4,
+  "salida": 778,
+  "cache_escritura": 5666,
+  "cache_lectura": 132464,
+  "respuestas": 2,
+  "total": 138912
  }
 ]

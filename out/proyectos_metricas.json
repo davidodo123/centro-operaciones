@@ -10,31 +10,31 @@
   "horas": 19,
   "primer_commit": "2026-10-13",
   "ultimo_commit": "2026-11-05",
-  "calculado": "2026-11-11"
+  "calculado": "2026-11-12"
  },
  {
   "id": "statsrun",
   "proyecto": "StatsRun",
   "repo": "davidodo123/StatsRun",
-  "progreso": 84,
-  "metodo_progreso": "180 de 216 tareas del Roadmap (Obsidian)",
-  "commits": 213,
-  "sesiones": 39,
-  "horas": 67.2,
+  "progreso": 83,
+  "metodo_progreso": "182 de 220 tareas del Roadmap (Obsidian)",
+  "commits": 215,
+  "sesiones": 41,
+  "horas": 68.2,
   "primer_commit": "2026-10-08",
-  "ultimo_commit": "2026-11-11",
-  "calculado": "2026-11-11",
+  "ultimo_commit": "2026-11-12",
+  "calculado": "2026-11-12",
   "app_usuarios": 8,
-  "app_activos7": 2,
+  "app_activos7": 1,
   "app_nuevos_semana": 0,
-  "app_entrenos_semana": 2,
+  "app_entrenos_semana": 3,
   "app_ia_mensajes_hoy": 0,
-  "app_ia_reajustes_hoy": 1,
+  "app_ia_reajustes_hoy": 2,
   "app_fallos_ia": 0,
-  "app_datos_kb": 84,
+  "app_datos_kb": 85,
   "app_copia_ok": true,
-  "app_copia_fecha": "2026-11-11",
-  "app_leido": "2026-11-11T21:30:08.401Z"
+  "app_copia_fecha": "2026-11-12",
+  "app_leido": "2026-11-12T21:30:04.125Z"
  },
  {
   "id": "lifer",
@@ -47,7 +47,7 @@
   "horas": 0.6,
   "primer_commit": "2026-10-18",
   "ultimo_commit": "2026-10-18",
-  "calculado": "2026-11-11"
+  "calculado": "2026-11-12"
  },
  {
   "id": "aforo-ml",
@@ -60,7 +60,7 @@
   "horas": 2.2,
   "primer_commit": "2026-11-10",
   "ultimo_commit": "2026-11-10",
-  "calculado": "2026-11-11"
+  "calculado": "2026-11-12"
  },
  {
   "id": "portfolio",
@@ -73,7 +73,7 @@
   "horas": 6,
   "primer_commit": "2026-06-03",
   "ultimo_commit": "2026-11-03",
-  "calculado": "2026-11-11"
+  "calculado": "2026-11-12"
  },
  {
   "id": "precios-ml",
@@ -86,6 +86,19 @@
   "horas": 1,
   "primer_commit": "2026-11-03",
   "ultimo_commit": "2026-11-03",
-  "calculado": "2026-11-11"
+  "calculado": "2026-11-12"
+ },
+ {
+  "id": "timeup",
+  "proyecto": "timeup",
+  "repo": "davidodo123/timeup",
+  "progreso": 58,
+  "metodo_progreso": "14 de 24 tareas del Roadmap (Obsidian)",
+  "commits": 4,
+  "sesiones": 1,
+  "horas": 2.7,
+  "primer_commit": "2026-11-12",
+  "ultimo_commit": "2026-11-12",
+  "calculado": "2026-11-12"
  }
 ]

@@ -86,9 +86,9 @@
  {
   "proyecto": "StatsRun",
   "fase": "Pruebas con 1.000 usuarios (lo pidió David 2026-10-31)",
-  "hechas": 31,
-  "total": 32,
-  "pct": 97
+  "hechas": 33,
+  "total": 36,
+  "pct": 92
  },
  {
   "proyecto": "StatsRun",
@@ -261,6 +261,27 @@
  {
   "proyecto": "Precios-ML",
   "fase": "Fase 2 · Importante",
+  "hechas": 0,
+  "total": 3,
+  "pct": 0
+ },
+ {
+  "proyecto": "timeup",
+  "fase": "Fase 1 · Necesario",
+  "hechas": 14,
+  "total": 16,
+  "pct": 88
+ },
+ {
+  "proyecto": "timeup",
+  "fase": "Fase 2 · Importante",
+  "hechas": 0,
+  "total": 5,
+  "pct": 0
+ },
+ {
+  "proyecto": "timeup",
+  "fase": "Fase 3 · Publicación",
   "hechas": 0,
   "total": 3,
   "pct": 0
