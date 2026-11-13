@@ -10,7 +10,7 @@
   "horas": 19,
   "primer_commit": "2026-10-13",
   "ultimo_commit": "2026-11-05",
-  "calculado": "2026-11-12"
+  "calculado": "2026-11-13"
  },
  {
   "id": "statsrun",
@@ -23,18 +23,18 @@
   "horas": 68.2,
   "primer_commit": "2026-10-08",
   "ultimo_commit": "2026-11-12",
-  "calculado": "2026-11-12",
+  "calculado": "2026-11-13",
   "app_usuarios": 8,
   "app_activos7": 1,
   "app_nuevos_semana": 0,
-  "app_entrenos_semana": 3,
+  "app_entrenos_semana": 4,
   "app_ia_mensajes_hoy": 0,
-  "app_ia_reajustes_hoy": 2,
+  "app_ia_reajustes_hoy": 0,
   "app_fallos_ia": 0,
   "app_datos_kb": 85,
   "app_copia_ok": true,
-  "app_copia_fecha": "2026-11-12",
-  "app_leido": "2026-11-12T21:30:04.125Z"
+  "app_copia_fecha": "2026-11-13",
+  "app_leido": "2026-11-13T21:30:10.346Z"
  },
  {
   "id": "lifer",
@@ -47,7 +47,7 @@
   "horas": 0.6,
   "primer_commit": "2026-10-18",
   "ultimo_commit": "2026-10-18",
-  "calculado": "2026-11-12"
+  "calculado": "2026-11-13"
  },
  {
   "id": "aforo-ml",
@@ -60,7 +60,7 @@
   "horas": 2.2,
   "primer_commit": "2026-11-10",
   "ultimo_commit": "2026-11-10",
-  "calculado": "2026-11-12"
+  "calculado": "2026-11-13"
  },
  {
   "id": "portfolio",
@@ -73,7 +73,7 @@
   "horas": 6,
   "primer_commit": "2026-06-03",
   "ultimo_commit": "2026-11-03",
-  "calculado": "2026-11-12"
+  "calculado": "2026-11-13"
  },
  {
   "id": "precios-ml",
@@ -86,7 +86,7 @@
   "horas": 1,
   "primer_commit": "2026-11-03",
   "ultimo_commit": "2026-11-03",
-  "calculado": "2026-11-12"
+  "calculado": "2026-11-13"
  },
  {
   "id": "timeup",
@@ -99,6 +99,6 @@
   "horas": 2.7,
   "primer_commit": "2026-11-12",
   "ultimo_commit": "2026-11-12",
-  "calculado": "2026-11-12"
+  "calculado": "2026-11-13"
  }
 ]
