@@ -1,55 +1,5 @@
 [
  {
-  "fecha": "2026-10-04",
-  "proyecto": "StudyUp",
-  "entrada": 190,
-  "salida": 131244,
-  "cache_escritura": 205952,
-  "cache_lectura": 12986609,
-  "respuestas": 95,
-  "total": 13323995
- },
- {
-  "fecha": "2026-10-10",
-  "proyecto": "StatsRun",
-  "entrada": 1312,
-  "salida": 709430,
-  "cache_escritura": 1879069,
-  "cache_lectura": 289624297,
-  "respuestas": 656,
-  "total": 292214108
- },
- {
-  "fecha": "2026-10-11",
-  "proyecto": "StatsRun",
-  "entrada": 904,
-  "salida": 350427,
-  "cache_escritura": 2213200,
-  "cache_lectura": 234773618,
-  "respuestas": 454,
-  "total": 237338149
- },
- {
-  "fecha": "2026-10-12",
-  "proyecto": "StatsRun",
-  "entrada": 392,
-  "salida": 133918,
-  "cache_escritura": 1788124,
-  "cache_lectura": 98237330,
-  "respuestas": 197,
-  "total": 100159764
- },
- {
-  "fecha": "2026-10-13",
-  "proyecto": "StatsRun",
-  "entrada": 16,
-  "salida": 3505,
-  "cache_escritura": 616026,
-  "cache_lectura": 4512840,
-  "respuestas": 11,
-  "total": 5132387
- },
- {
   "fecha": "2026-10-16",
   "proyecto": "Eat-em",
   "entrada": 684,
@@ -58,16 +8,6 @@
   "cache_lectura": 107814785,
   "respuestas": 342,
   "total": 108735383
- },
- {
-  "fecha": "2026-10-17",
-  "proyecto": "david",
-  "entrada": 16,
-  "salida": 2790,
-  "cache_escritura": 36021,
-  "cache_lectura": 227531,
-  "respuestas": 8,
-  "total": 266358
  },
  {
   "fecha": "2026-10-17",
@@ -81,43 +21,13 @@
  },
  {
   "fecha": "2026-10-18",
-  "proyecto": "Desktop",
-  "entrada": 10,
-  "salida": 1554,
-  "cache_escritura": 2945,
-  "cache_lectura": 402133,
-  "respuestas": 5,
-  "total": 406642
- },
- {
-  "fecha": "2026-10-18",
-  "proyecto": "PRUEBAS",
-  "entrada": 8,
-  "salida": 1587,
-  "cache_escritura": 3698,
-  "cache_lectura": 337292,
-  "respuestas": 4,
-  "total": 342585
- },
- {
-  "fecha": "2026-10-18",
   "proyecto": "StatsRun",
-  "entrada": 412,
-  "salida": 165323,
-  "cache_escritura": 393125,
-  "cache_lectura": 39844912,
-  "respuestas": 206,
-  "total": 40403772
- },
- {
-  "fecha": "2026-10-18",
-  "proyecto": "StudyUp",
-  "entrada": 102,
-  "salida": 35169,
-  "cache_escritura": 183472,
-  "cache_lectura": 6954274,
-  "respuestas": 51,
-  "total": 7173017
+  "entrada": 394,
+  "salida": 159272,
+  "cache_escritura": 321778,
+  "cache_lectura": 39321933,
+  "respuestas": 197,
+  "total": 39803377
  },
  {
   "fecha": "2026-10-19",
@@ -618,5 +528,15 @@
   "cache_lectura": 132464,
   "respuestas": 2,
   "total": 138912
+ },
+ {
+  "fecha": "2026-11-17",
+  "proyecto": "StatsRun",
+  "entrada": 210,
+  "salida": 68334,
+  "cache_escritura": 192433,
+  "cache_lectura": 15421854,
+  "respuestas": 103,
+  "total": 15682831
  }
 ]

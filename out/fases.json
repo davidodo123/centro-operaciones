@@ -86,9 +86,9 @@
  {
   "proyecto": "StatsRun",
   "fase": "Pruebas con 1.000 usuarios (lo pidió David 2026-10-31)",
-  "hechas": 33,
-  "total": 36,
-  "pct": 92
+  "hechas": 35.5,
+  "total": 37,
+  "pct": 96
  },
  {
   "proyecto": "StatsRun",
@@ -135,9 +135,9 @@
  {
   "proyecto": "StatsRun",
   "fase": "Pendientes técnicos",
-  "hechas": 6,
-  "total": 6,
-  "pct": 100
+  "hechas": 6.5,
+  "total": 7,
+  "pct": 93
  },
  {
   "proyecto": "StatsRun",
