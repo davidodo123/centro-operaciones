@@ -1,25 +1,5 @@
 [
  {
-  "fecha": "2026-10-16",
-  "proyecto": "Eat-em",
-  "entrada": 684,
-  "salida": 333765,
-  "cache_escritura": 586149,
-  "cache_lectura": 107814785,
-  "respuestas": 342,
-  "total": 108735383
- },
- {
-  "fecha": "2026-10-17",
-  "proyecto": "Eat-em",
-  "entrada": 544,
-  "salida": 294572,
-  "cache_escritura": 1379833,
-  "cache_lectura": 148201029,
-  "respuestas": 275,
-  "total": 149875978
- },
- {
   "fecha": "2026-10-18",
   "proyecto": "StatsRun",
   "entrada": 394,
@@ -31,63 +11,13 @@
  },
  {
   "fecha": "2026-10-19",
-  "proyecto": "Eat-em",
-  "entrada": 286,
-  "salida": 137984,
-  "cache_escritura": 468856,
-  "cache_lectura": 55475448,
-  "respuestas": 144,
-  "total": 56082574
- },
- {
-  "fecha": "2026-10-19",
   "proyecto": "StatsRun",
-  "entrada": 74,
-  "salida": 36558,
-  "cache_escritura": 807899,
-  "cache_lectura": 14169136,
-  "respuestas": 37,
-  "total": 15013667
- },
- {
-  "fecha": "2026-10-20",
-  "proyecto": "Desktop",
-  "entrada": 4,
-  "salida": 1161,
-  "cache_escritura": 8497,
-  "cache_lectura": 149161,
-  "respuestas": 2,
-  "total": 158823
- },
- {
-  "fecha": "2026-10-20",
-  "proyecto": "diario",
-  "entrada": 36,
-  "salida": 16138,
-  "cache_escritura": 22316,
-  "cache_lectura": 3178301,
-  "respuestas": 18,
-  "total": 3216791
- },
- {
-  "fecha": "2026-10-20",
-  "proyecto": "Eat-em",
-  "entrada": 60,
-  "salida": 29287,
-  "cache_escritura": 49616,
-  "cache_lectura": 15809020,
-  "respuestas": 30,
-  "total": 15887983
- },
- {
-  "fecha": "2026-10-20",
-  "proyecto": "Portfolio-main",
-  "entrada": 370,
-  "salida": 129196,
-  "cache_escritura": 341948,
-  "cache_lectura": 44230671,
-  "respuestas": 185,
-  "total": 44702185
+  "entrada": 66,
+  "salida": 34034,
+  "cache_escritura": 800053,
+  "cache_lectura": 12307894,
+  "respuestas": 33,
+  "total": 13142047
  },
  {
   "fecha": "2026-10-20",
@@ -98,16 +28,6 @@
   "cache_lectura": 128559255,
   "respuestas": 212,
   "total": 130122967
- },
- {
-  "fecha": "2026-10-20",
-  "proyecto": "TOP",
-  "entrada": 4,
-  "salida": 1309,
-  "cache_escritura": 606,
-  "cache_lectura": 468749,
-  "respuestas": 2,
-  "total": 470668
  },
  {
   "fecha": "2026-10-21",
@@ -538,5 +458,15 @@
   "cache_lectura": 15421854,
   "respuestas": 103,
   "total": 15682831
+ },
+ {
+  "fecha": "2026-11-23",
+  "proyecto": "david",
+  "entrada": 48,
+  "salida": 19299,
+  "cache_escritura": 161169,
+  "cache_lectura": 1267005,
+  "respuestas": 24,
+  "total": 1447521
  }
 ]
