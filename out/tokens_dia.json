@@ -1,63 +1,13 @@
 [
  {
-  "fecha": "2026-10-18",
-  "proyecto": "StatsRun",
-  "entrada": 394,
-  "salida": 159272,
-  "cache_escritura": 321778,
-  "cache_lectura": 39321933,
-  "respuestas": 197,
-  "total": 39803377
- },
- {
-  "fecha": "2026-10-19",
-  "proyecto": "StatsRun",
-  "entrada": 66,
-  "salida": 34034,
-  "cache_escritura": 800053,
-  "cache_lectura": 12307894,
-  "respuestas": 33,
-  "total": 13142047
- },
- {
-  "fecha": "2026-10-20",
-  "proyecto": "StatsRun",
-  "entrada": 424,
-  "salida": 142726,
-  "cache_escritura": 1420562,
-  "cache_lectura": 128559255,
-  "respuestas": 212,
-  "total": 130122967
- },
- {
-  "fecha": "2026-10-21",
-  "proyecto": "StatsRun",
-  "entrada": 112,
-  "salida": 40767,
-  "cache_escritura": 1628383,
-  "cache_lectura": 43650695,
-  "respuestas": 56,
-  "total": 45319957
- },
- {
-  "fecha": "2026-10-22",
-  "proyecto": "StatsRun",
-  "entrada": 4,
-  "salida": 1706,
-  "cache_escritura": 827318,
-  "cache_lectura": 880593,
-  "respuestas": 2,
-  "total": 1709621
- },
- {
   "fecha": "2026-10-23",
   "proyecto": "StatsRun",
-  "entrada": 798,
-  "salida": 323051,
-  "cache_escritura": 1967128,
-  "cache_lectura": 157418434,
-  "respuestas": 399,
-  "total": 159709411
+  "entrada": 788,
+  "salida": 318630,
+  "cache_escritura": 1129445,
+  "cache_lectura": 153937189,
+  "respuestas": 394,
+  "total": 155386052
  },
  {
   "fecha": "2026-10-24",
