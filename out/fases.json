@@ -238,6 +238,27 @@
   "pct": 0
  },
  {
+  "proyecto": "dashboard",
+  "fase": "Fase 1 · Necesario",
+  "hechas": 10.5,
+  "total": 11,
+  "pct": 95
+ },
+ {
+  "proyecto": "dashboard",
+  "fase": "Fase 2 · Importante",
+  "hechas": 1,
+  "total": 5,
+  "pct": 20
+ },
+ {
+  "proyecto": "dashboard",
+  "fase": "Fase 3 · Extra",
+  "hechas": 0,
+  "total": 2,
+  "pct": 0
+ },
+ {
   "proyecto": "Mi web personal",
   "fase": "Fase 1 · Necesario",
   "hechas": 16,
@@ -263,6 +284,27 @@
   "fase": "Fase 2 · Importante",
   "hechas": 0,
   "total": 3,
+  "pct": 0
+ },
+ {
+  "proyecto": "prompter-",
+  "fase": "Fase 1 · Necesario",
+  "hechas": 5,
+  "total": 6,
+  "pct": 83
+ },
+ {
+  "proyecto": "prompter-",
+  "fase": "Fase 2 · Importante",
+  "hechas": 0,
+  "total": 3,
+  "pct": 0
+ },
+ {
+  "proyecto": "prompter-",
+  "fase": "Fase 3 · Extra",
+  "hechas": 0,
+  "total": 2,
   "pct": 0
  },
  {

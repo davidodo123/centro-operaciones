@@ -21,33 +21,13 @@
  },
  {
   "fecha": "2026-10-25",
-  "proyecto": "centro-operaciones",
-  "entrada": 22,
-  "salida": 3849,
-  "cache_escritura": 39310,
-  "cache_lectura": 583305,
-  "respuestas": 11,
-  "total": 626486
- },
- {
-  "fecha": "2026-10-25",
-  "proyecto": "david",
-  "entrada": 12,
-  "salida": 1222,
-  "cache_escritura": 40617,
-  "cache_lectura": 264907,
-  "respuestas": 6,
-  "total": 306758
- },
- {
-  "fecha": "2026-10-25",
   "proyecto": "StatsRun",
-  "entrada": 466,
-  "salida": 174026,
-  "cache_escritura": 1411008,
-  "cache_lectura": 128469097,
-  "respuestas": 233,
-  "total": 130054597
+  "entrada": 458,
+  "salida": 172928,
+  "cache_escritura": 1383522,
+  "cache_lectura": 128291624,
+  "respuestas": 229,
+  "total": 129848532
  },
  {
   "fecha": "2026-10-26",
@@ -418,5 +398,25 @@
   "cache_lectura": 1267005,
   "respuestas": 24,
   "total": 1447521
+ },
+ {
+  "fecha": "2026-11-24",
+  "proyecto": "dashboard",
+  "entrada": 118,
+  "salida": 78326,
+  "cache_escritura": 131357,
+  "cache_lectura": 14472387,
+  "respuestas": 57,
+  "total": 14682188
+ },
+ {
+  "fecha": "2026-11-24",
+  "proyecto": "prompter",
+  "entrada": 60,
+  "salida": 23267,
+  "cache_escritura": 447377,
+  "cache_lectura": 4168115,
+  "respuestas": 30,
+  "total": 4638819
  }
 ]

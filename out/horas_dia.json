@@ -185,6 +185,11 @@
   "horas": 2.15
  },
  {
+  "proyecto": "dashboard",
+  "fecha": "2026-11-24",
+  "horas": 1.37
+ },
+ {
   "proyecto": "Mi web personal",
   "fecha": "2026-06-03",
   "horas": 1.93
@@ -208,6 +213,11 @@
   "proyecto": "Precios-ML",
   "fecha": "2026-11-03",
   "horas": 0.96
+ },
+ {
+  "proyecto": "prompter-",
+  "fecha": "2026-11-24",
+  "horas": 0.53
  },
  {
   "proyecto": "timeup",

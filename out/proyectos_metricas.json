@@ -10,7 +10,7 @@
   "horas": 19,
   "primer_commit": "2026-10-13",
   "ultimo_commit": "2026-11-05",
-  "calculado": "2026-11-23"
+  "calculado": "2026-11-24"
  },
  {
   "id": "statsrun",
@@ -23,7 +23,7 @@
   "horas": 68.7,
   "primer_commit": "2026-10-08",
   "ultimo_commit": "2026-11-17",
-  "calculado": "2026-11-23",
+  "calculado": "2026-11-24",
   "app_usuarios": 8,
   "app_activos7": 1,
   "app_nuevos_semana": 0,
@@ -33,8 +33,8 @@
   "app_fallos_ia": 0,
   "app_datos_kb": 88,
   "app_copia_ok": true,
-  "app_copia_fecha": "2026-11-23",
-  "app_leido": "2026-11-23T21:30:11.365Z"
+  "app_copia_fecha": "2026-11-24",
+  "app_leido": "2026-11-24T21:30:11.617Z"
  },
  {
   "id": "lifer",
@@ -47,7 +47,7 @@
   "horas": 0.6,
   "primer_commit": "2026-10-18",
   "ultimo_commit": "2026-10-18",
-  "calculado": "2026-11-23"
+  "calculado": "2026-11-24"
  },
  {
   "id": "aforo-ml",
@@ -60,7 +60,20 @@
   "horas": 2.2,
   "primer_commit": "2026-11-10",
   "ultimo_commit": "2026-11-10",
-  "calculado": "2026-11-23"
+  "calculado": "2026-11-24"
+ },
+ {
+  "id": "dashboard",
+  "proyecto": "dashboard",
+  "repo": "davidodo123/dashboard",
+  "progreso": 64,
+  "metodo_progreso": "11 de 18 tareas del Roadmap (Obsidian)",
+  "commits": 5,
+  "sesiones": 2,
+  "horas": 1.4,
+  "primer_commit": "2026-11-24",
+  "ultimo_commit": "2026-11-24",
+  "calculado": "2026-11-24"
  },
  {
   "id": "portfolio",
@@ -73,7 +86,7 @@
   "horas": 6,
   "primer_commit": "2026-06-03",
   "ultimo_commit": "2026-11-03",
-  "calculado": "2026-11-23"
+  "calculado": "2026-11-24"
  },
  {
   "id": "precios-ml",
@@ -86,7 +99,20 @@
   "horas": 1,
   "primer_commit": "2026-11-03",
   "ultimo_commit": "2026-11-03",
-  "calculado": "2026-11-23"
+  "calculado": "2026-11-24"
+ },
+ {
+  "id": "prompter-",
+  "proyecto": "prompter-",
+  "repo": "davidodo123/prompter-",
+  "progreso": 45,
+  "metodo_progreso": "5 de 11 tareas del Roadmap (Obsidian)",
+  "commits": 2,
+  "sesiones": 1,
+  "horas": 0.5,
+  "primer_commit": "2026-11-24",
+  "ultimo_commit": "2026-11-24",
+  "calculado": "2026-11-24"
  },
  {
   "id": "timeup",
@@ -99,6 +125,6 @@
   "horas": 2.7,
   "primer_commit": "2026-11-12",
   "ultimo_commit": "2026-11-12",
-  "calculado": "2026-11-23"
+  "calculado": "2026-11-24"
  }
 ]
