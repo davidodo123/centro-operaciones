@@ -185,9 +185,19 @@
   "horas": 2.15
  },
  {
+  "proyecto": "apuntes-clase",
+  "fecha": "2026-11-25",
+  "horas": 1.26
+ },
+ {
   "proyecto": "dashboard",
   "fecha": "2026-11-24",
   "horas": 1.37
+ },
+ {
+  "proyecto": "dashboard",
+  "fecha": "2026-11-25",
+  "horas": 1.17
  },
  {
   "proyecto": "Mi web personal",

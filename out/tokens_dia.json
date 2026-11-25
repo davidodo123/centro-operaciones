@@ -418,5 +418,65 @@
   "cache_lectura": 4168115,
   "respuestas": 30,
   "total": 4638819
+ },
+ {
+  "fecha": "2026-11-25",
+  "proyecto": "apuntes-clase",
+  "entrada": 162,
+  "salida": 49105,
+  "cache_escritura": 76245,
+  "cache_lectura": 23913712,
+  "respuestas": 79,
+  "total": 24039224
+ },
+ {
+  "fecha": "2026-11-25",
+  "proyecto": "dashboard",
+  "entrada": 190,
+  "salida": 180950,
+  "cache_escritura": 257045,
+  "cache_lectura": 50111199,
+  "respuestas": 95,
+  "total": 50549384
+ },
+ {
+  "fecha": "2026-11-25",
+  "proyecto": "david",
+  "entrada": 18,
+  "salida": 5755,
+  "cache_escritura": 46449,
+  "cache_lectura": 371361,
+  "respuestas": 9,
+  "total": 423583
+ },
+ {
+  "fecha": "2026-11-25",
+  "proyecto": "huashu-design",
+  "entrada": 28,
+  "salida": 20939,
+  "cache_escritura": 28836,
+  "cache_lectura": 1121909,
+  "respuestas": 14,
+  "total": 1171712
+ },
+ {
+  "fecha": "2026-11-25",
+  "proyecto": "prompter",
+  "entrada": 56,
+  "salida": 42896,
+  "cache_escritura": 373774,
+  "cache_lectura": 11513634,
+  "respuestas": 27,
+  "total": 11930360
+ },
+ {
+  "fecha": "2026-11-25",
+  "proyecto": "skills",
+  "entrada": 4,
+  "salida": 901,
+  "cache_escritura": 2121,
+  "cache_lectura": 122751,
+  "respuestas": 2,
+  "total": 125777
  }
 ]

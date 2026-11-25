@@ -238,6 +238,27 @@
   "pct": 0
  },
  {
+  "proyecto": "apuntes-clase",
+  "fase": "Fase 1 · Necesario",
+  "hechas": 5,
+  "total": 7,
+  "pct": 71
+ },
+ {
+  "proyecto": "apuntes-clase",
+  "fase": "Fase 2 · Importante",
+  "hechas": 0.5,
+  "total": 5,
+  "pct": 10
+ },
+ {
+  "proyecto": "apuntes-clase",
+  "fase": "Fase 3 · Mejoras",
+  "hechas": 0,
+  "total": 2,
+  "pct": 0
+ },
+ {
   "proyecto": "dashboard",
   "fase": "Fase 1 · Necesario",
   "hechas": 10.5,
@@ -246,14 +267,28 @@
  },
  {
   "proyecto": "dashboard",
-  "fase": "Fase 2 · Importante",
+  "fase": "Fase 2 · Centro en vivo",
+  "hechas": 7,
+  "total": 9,
+  "pct": 78
+ },
+ {
+  "proyecto": "dashboard",
+  "fase": "Fase 3 · Sistema de arranque",
+  "hechas": 7,
+  "total": 13,
+  "pct": 54
+ },
+ {
+  "proyecto": "dashboard",
+  "fase": "Fase 4 · Importante",
   "hechas": 1,
   "total": 5,
   "pct": 20
  },
  {
   "proyecto": "dashboard",
-  "fase": "Fase 3 · Extra",
+  "fase": "Fase 5 · Extra",
   "hechas": 0,
   "total": 2,
   "pct": 0

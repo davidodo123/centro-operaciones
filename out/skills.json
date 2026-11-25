@@ -50,6 +50,46 @@
   "proyectos": []
  },
  {
+  "id": "animate",
+  "nombre": "animate",
+  "agente": "",
+  "para": "Build an animation from scratch, making the decisions in the order that determines whether",
+  "origen": "local",
+  "fuentes": "local",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "animate-expo",
+  "nombre": "animate-expo",
+  "agente": "",
+  "para": "Build animations in React Native and Expo, making the decisions in the order that determin",
+  "origen": "local",
+  "fuentes": "local",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "animation-performance",
+  "nombre": "animation-performance",
+  "agente": "",
+  "para": "Keep web animations inside the frame budget — animate composite-only properties, keep moti",
+  "origen": "local",
+  "fuentes": "local",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "animation-vocabulary",
+  "nombre": "animation-vocabulary",
+  "agente": "",
+  "para": "Reverse-lookup glossary that turns a vague description of a web animation or motion effect",
+  "origen": "local",
+  "fuentes": "local",
+  "activa": true,
+  "proyectos": []
+ },
+ {
   "id": "antislop",
   "nombre": "antislop",
   "agente": "@diseño",
@@ -100,12 +140,52 @@
   "proyectos": []
  },
  {
+  "id": "apple-design",
+  "nombre": "apple-design",
+  "agente": "",
+  "para": "Apple's approach to interface design and fluid, physical motion, translated for the web. U",
+  "origen": "local",
+  "fuentes": "local",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "ask-emil",
+  "nombre": "ask-emil",
+  "agente": "",
+  "para": "Ask which skill or flow fits your situation. A router over the skills in this repo.",
+  "origen": "local",
+  "fuentes": "local",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "claude-security-attack-surface-analysis",
+  "nombre": "attack-surface-analysis",
+  "agente": "",
+  "para": "Attack surface analysis: a long audit in three stages (default attack surface reduction, e",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
   "id": "awesome-design-md",
   "nombre": "awesome-design-md",
   "agente": "@diseño",
   "para": "Diseñar con el estilo de una marca conocida",
   "origen": "VoltAgent/awesome-design-md",
   "fuentes": "claude.ai",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "break-ui",
+  "nombre": "break-ui",
+  "agente": "",
+  "para": "Try to break a piece of UI by feeding it worst-case data — long names, unbreakable emails,",
+  "origen": "local",
+  "fuentes": "local",
   "activa": true,
   "proyectos": []
  },
@@ -380,12 +460,32 @@
   "proyectos": []
  },
  {
+  "id": "choreograph",
+  "nombre": "choreograph",
+  "agente": "",
+  "para": "Coordinate several elements that animate together — decide what moves, in what order, how ",
+  "origen": "local",
+  "fuentes": "local",
+  "activa": true,
+  "proyectos": []
+ },
+ {
   "id": "chrome-browser",
   "nombre": "chrome-browser",
   "agente": "",
   "para": "Skill de Anthropic incluida en claude.ai.",
   "origen": "claude.ai (Anthropic)",
   "fuentes": "claude.ai (Anthropic)",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "claude-security-ci-review",
+  "nombre": "ci-review",
+  "agente": "",
+  "para": "The scan that the plugin's GitHub Action runs.",
+  "origen": "plugin",
+  "fuentes": "plugin",
   "activa": true,
   "proyectos": []
  },
@@ -550,6 +650,16 @@
   "proyectos": []
  },
  {
+  "id": "emil-design-eng",
+  "nombre": "emil-design-eng",
+  "agente": "",
+  "para": "Emil Kowalski's design-engineering philosophy for UI polish, component design, animation d",
+  "origen": "local",
+  "fuentes": "local",
+  "activa": true,
+  "proyectos": []
+ },
+ {
   "id": "example-plugin-example-command",
   "nombre": "example-command",
   "agente": "",
@@ -580,6 +690,16 @@
   "proyectos": []
  },
  {
+  "id": "find-animation-opportunities",
+  "nombre": "find-animation-opportunities",
+  "agente": "",
+  "para": "Search a codebase or UI for places that don't animate but should, and reject everything th",
+  "origen": "local",
+  "fuentes": "local",
+  "activa": true,
+  "proyectos": []
+ },
+ {
   "id": "find-skills",
   "nombre": "find-skills",
   "agente": "@research",
@@ -590,12 +710,32 @@
   "proyectos": []
  },
  {
+  "id": "frontend-design",
+  "nombre": "frontend-design",
+  "agente": "",
+  "para": "Guidance for distinctive, intentional visual design when building new UI or reshaping an e",
+  "origen": "local",
+  "fuentes": "local",
+  "activa": true,
+  "proyectos": []
+ },
+ {
   "id": "frontend-design-frontend-design",
   "nombre": "frontend-design",
   "agente": "",
   "para": "Guidance for distinctive, intentional visual design when building new UI or reshaping an e",
   "origen": "plugin",
   "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "gestures",
+  "nombre": "gestures",
+  "agente": "",
+  "para": "Build drag, swipe, and sheet interactions that track the finger 1:1 and stay interruptible",
+  "origen": "local",
+  "fuentes": "local",
   "activa": true,
   "proyectos": []
  },
@@ -626,6 +766,26 @@
   "para": "This skill should be used when the user asks to \"create a hook\", \"add a PreToolUse/PostToo",
   "origen": "plugin",
   "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "claude-security-hosted",
+  "nombre": "hosted",
+  "agente": "",
+  "para": "Hosted Claude Security: list what it has open for this repository, show one of its finding",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "huashu-design",
+  "nombre": "huashu-design",
+  "agente": "",
+  "para": "花叔Design——用HTML做高保真原型、幻灯片、动画、可视化与专家评审。任何新设计100%先出三个方向初稿给用户选（指定风格/品牌也不豁免），选定后才执行。触发词：做原型、Ap",
+  "origen": "local",
+  "fuentes": "local",
   "activa": true,
   "proyectos": []
  },
@@ -662,12 +822,42 @@
   "proyectos": []
  },
  {
+  "id": "improve-animations",
+  "nombre": "improve-animations",
+  "agente": "",
+  "para": "Survey a codebase's animation and motion code as a senior motion advisor, then produce a p",
+  "origen": "local",
+  "fuentes": "local",
+  "activa": true,
+  "proyectos": []
+ },
+ {
   "id": "claude-for-manufacturing-inspection-to-capa",
   "nombre": "inspection-to-capa",
   "agente": "",
   "para": "Runs the quality chain end to end: writes the nonconformance against the requirement it vi",
   "origen": "plugin",
   "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "claude-security-install-cli",
+  "nombre": "install-cli",
+  "agente": "",
+  "para": "Write the claude-security command to ~/.local/bin, to run a scan by name from your shell.",
+  "origen": "plugin",
+  "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "learn-taste",
+  "nombre": "learn-taste",
+  "agente": "",
+  "para": "Turn a session's design corrections into rules, with their why, in DESIGN.md, a project sk",
+  "origen": "local",
+  "fuentes": "local",
   "activa": true,
   "proyectos": []
  },
@@ -708,6 +898,16 @@
   "para": "This skill should be used when the user asks to \"add MCP server\", \"integrate MCP\", \"config",
   "origen": "plugin",
   "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "mobile-native",
+  "nombre": "mobile-native",
+  "agente": "",
+  "para": "Make a web app feel native on a phone — the small CSS and meta-tag fixes that separate \"a ",
+  "origen": "local",
+  "fuentes": "local",
   "activa": true,
   "proyectos": []
  },
@@ -852,6 +1052,16 @@
   "proyectos": []
  },
  {
+  "id": "pick-ui-library",
+  "nombre": "pick-ui-library",
+  "agente": "",
+  "para": "Pick the library for a frontend task from a curated list — primitives, toasts, drawers, co",
+  "origen": "local",
+  "fuentes": "local",
+  "activa": true,
+  "proyectos": []
+ },
+ {
   "id": "playground-playground",
   "nombre": "playground",
   "agente": "",
@@ -888,6 +1098,16 @@
   "para": "Generate and publish a project status artifact — an opinionated, tabbed status page for a ",
   "origen": "plugin",
   "fuentes": "plugin",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "prototype",
+  "nombre": "prototype",
+  "agente": "",
+  "para": "Build multiple genuinely different versions of a UI piece you describe, rendered behind a ",
+  "origen": "local",
+  "fuentes": "local",
   "activa": true,
   "proyectos": []
  },
@@ -938,6 +1158,26 @@
   "para": "Vídeos animados con React",
   "origen": "claude.ai",
   "fuentes": "claude.ai",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "remove-animations",
+  "nombre": "remove-animations",
+  "agente": "",
+  "para": "Find the animations an interface doesn't need and remove them — motion on keyboard actions",
+  "origen": "local",
+  "fuentes": "local",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "review-animations",
+  "nombre": "review-animations",
+  "agente": "",
+  "para": "Reviews animation and motion code against a high craft bar derived from Emil Kowalski's de",
+  "origen": "local",
+  "fuentes": "local",
   "activa": true,
   "proyectos": []
  },
@@ -1078,6 +1318,16 @@
   "para": "Buscar bugs y fallos de seguridad antes de mergear",
   "origen": "claude.ai",
   "fuentes": "claude.ai",
+  "activa": true,
+  "proyectos": []
+ },
+ {
+  "id": "claude-security-threat-model",
+  "nombre": "threat-model",
+  "agente": "",
+  "para": "Claude Security plugin: create or update a repository's threat model, or check the finding",
+  "origen": "plugin",
+  "fuentes": "plugin",
   "activa": true,
   "proyectos": []
  },
