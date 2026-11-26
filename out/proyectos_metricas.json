@@ -10,7 +10,7 @@
   "horas": 19,
   "primer_commit": "2026-10-13",
   "ultimo_commit": "2026-11-05",
-  "calculado": "2026-11-25"
+  "calculado": "2026-11-26"
  },
  {
   "id": "statsrun",
@@ -23,7 +23,7 @@
   "horas": 68.7,
   "primer_commit": "2026-10-08",
   "ultimo_commit": "2026-11-17",
-  "calculado": "2026-11-25",
+  "calculado": "2026-11-26",
   "app_usuarios": 8,
   "app_activos7": 0,
   "app_nuevos_semana": 0,
@@ -33,8 +33,8 @@
   "app_fallos_ia": 0,
   "app_datos_kb": 88,
   "app_copia_ok": true,
-  "app_copia_fecha": "2026-11-25",
-  "app_leido": "2026-11-25T21:51:44.928Z"
+  "app_copia_fecha": "2026-11-26",
+  "app_leido": "2026-11-26T21:30:14.755Z"
  },
  {
   "id": "lifer",
@@ -47,7 +47,7 @@
   "horas": 0.6,
   "primer_commit": "2026-10-18",
   "ultimo_commit": "2026-10-18",
-  "calculado": "2026-11-25"
+  "calculado": "2026-11-26"
  },
  {
   "id": "aforo-ml",
@@ -60,7 +60,7 @@
   "horas": 2.2,
   "primer_commit": "2026-11-10",
   "ultimo_commit": "2026-11-10",
-  "calculado": "2026-11-25"
+  "calculado": "2026-11-26"
  },
  {
   "id": "apuntes-clase",
@@ -73,7 +73,7 @@
   "horas": 1.3,
   "primer_commit": "2026-11-25",
   "ultimo_commit": "2026-11-25",
-  "calculado": "2026-11-25"
+  "calculado": "2026-11-26"
  },
  {
   "id": "dashboard",
@@ -86,7 +86,7 @@
   "horas": 2.5,
   "primer_commit": "2026-11-24",
   "ultimo_commit": "2026-11-25",
-  "calculado": "2026-11-25"
+  "calculado": "2026-11-26"
  },
  {
   "id": "portfolio",
@@ -99,7 +99,7 @@
   "horas": 6,
   "primer_commit": "2026-06-03",
   "ultimo_commit": "2026-11-03",
-  "calculado": "2026-11-25"
+  "calculado": "2026-11-26"
  },
  {
   "id": "precios-ml",
@@ -112,7 +112,7 @@
   "horas": 1,
   "primer_commit": "2026-11-03",
   "ultimo_commit": "2026-11-03",
-  "calculado": "2026-11-25"
+  "calculado": "2026-11-26"
  },
  {
   "id": "prompter-",
@@ -125,7 +125,7 @@
   "horas": 0.5,
   "primer_commit": "2026-11-24",
   "ultimo_commit": "2026-11-24",
-  "calculado": "2026-11-25"
+  "calculado": "2026-11-26"
  },
  {
   "id": "timeup",
@@ -138,6 +138,6 @@
   "horas": 2.7,
   "primer_commit": "2026-11-12",
   "ultimo_commit": "2026-11-12",
-  "calculado": "2026-11-25"
+  "calculado": "2026-11-26"
  }
 ]

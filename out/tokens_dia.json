@@ -31,26 +31,6 @@
  },
  {
   "fecha": "2026-10-26",
-  "proyecto": "diario",
-  "entrada": 16,
-  "salida": 4171,
-  "cache_escritura": 11029,
-  "cache_lectura": 643012,
-  "respuestas": 8,
-  "total": 658228
- },
- {
-  "fecha": "2026-10-26",
-  "proyecto": "linkedin-datos-curiosos",
-  "entrada": 36,
-  "salida": 11151,
-  "cache_escritura": 47927,
-  "cache_lectura": 1159312,
-  "respuestas": 18,
-  "total": 1218426
- },
- {
-  "fecha": "2026-10-26",
   "proyecto": "Portfolio-main",
   "entrada": 24,
   "salida": 4459,
@@ -451,6 +431,16 @@
  },
  {
   "fecha": "2026-11-25",
+  "proyecto": "Horus-s-eye",
+  "entrada": 54,
+  "salida": 10368,
+  "cache_escritura": 55148,
+  "cache_lectura": 1831498,
+  "respuestas": 27,
+  "total": 1897068
+ },
+ {
+  "fecha": "2026-11-25",
   "proyecto": "huashu-design",
   "entrada": 28,
   "salida": 20939,
@@ -478,5 +468,15 @@
   "cache_lectura": 122751,
   "respuestas": 2,
   "total": 125777
+ },
+ {
+  "fecha": "2026-11-26",
+  "proyecto": "Horus-s-eye",
+  "entrada": 48,
+  "salida": 29990,
+  "cache_escritura": 53948,
+  "cache_lectura": 2678253,
+  "respuestas": 24,
+  "total": 2762239
  }
 ]
